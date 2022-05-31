@@ -1,17 +1,15 @@
 # LabVIEW_Training
-Formation LabVIEW complète en Français
-
 Bienvenue dans la formation TDF LabVIEW France
 
-Cette formation a pour but de nous faire gagner du temps dans nos recrutements. Comme on est fair play chez TDF, la formation est gratuite et libre de droit.
-Ici vous pourrez démarrer à acquérir  des connaissances en programmation  LabVIEW "from scratch" et vous améliorer jusqu'au niveau architecte.
+Cette formation a pour but de nous faire gagner du temps dans nos recrutements et comme on est fair play chez TDF, la formation est gratuite et libre de droit.
+Ici vous pourrez démarrer à acquérir des connaissances en programmation LabVIEW "from scratch" et vous améliorer jusqu'au niveau architecte.
 
 Organisation de la formation 
 
-I - Présentation de l'environnement  LabVIEW et notions de base 
+I - Présentation de l’environnement LabVIEW et notions de base 
 
 Cette partie est consacrée à la présentation de l'outil LabVIEW de l'entreprise National Instrument. 
-Ici vous vous familiariserez avec l'environnement  de développement.
+Ici vous vous familiariserez avec l’environnement de développement.
 
 II -- Les structures 
 
@@ -31,7 +29,7 @@ IV - Application à la programmation - Calculatrice 1 (Architecture basique)
 Cette partie est consacrée à 
  - Bonnes pratique de programmation (Documenter son code, agencement du code)
  - Utilisation et compréhension du flux
- - Références, notion de nœuds de propriétés et noeuds de méthodes
+ - Références, notion de nœuds de propriétés et nœuds de méthodes
  - Création d'une interface 
  - Création d'une structure d'évènement afin de faire interagir cette interface
  - La gestion des erreurs (gestion des exceptions)
@@ -65,7 +63,7 @@ VIII - Application à la programmation - Queue message handler (QMH)
 
 Cette partie est consacrée à 
  - Compréhension de l'architecture QMH (standard NI) - initialisation, process et quitte.
- - Notion de files  (FIFO)
+ - Notion de files (FIFO)
  - Notion d'évènement crée
  - Notion du producteur/consommateur
  - Bonnes pratiques de programmation 
@@ -75,5 +73,6 @@ IX - Application à la programmation - Queue message handler (QMH) - Calculatric
 Cette partie est consacrée à 
  - Utilisation et modification du Template (passer du standard NI aux standard TDF)
  - Notion de multithread (Display, Conductor, Command)
+
 
 
