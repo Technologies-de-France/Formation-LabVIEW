@@ -11,7 +11,7 @@ I - Présentation de l’environnement LabVIEW et notions de base
 Cette partie est consacrée à la présentation de l'outil LabVIEW de l'entreprise National Instrument. 
 Ici vous vous familiariserez avec l’environnement de développement.
 
-II -- Les structures 
+II - Les structures 
 
 Cette partie est consacrée à 
  - l'utilisation des structures de programmation de bases (if, for, while, évènement) 
