@@ -1,7 +1,7 @@
 # LabVIEW_Training
 Bienvenue dans la formation TDF LabVIEW France
 
-Cette formation a pour but de nous faire gagner du temps dans nos recrutements et comme on est fair play chez TDF, la formation est gratuite et libre de droit.
+Cette formation est gratuite et libre de droit.
 Ici vous pourrez démarrer à acquérir des connaissances en programmation LabVIEW "from scratch" et vous améliorer jusqu'au niveau architecte.
 
 Organisation de la formation 
