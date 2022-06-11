@@ -51,15 +51,20 @@ Cette partie est consacrée à
  - Fabrication d'une machine d'état
  - Bonnes pratiques de programmation 
 
+VII - Application à la programmation - Machine d'état standard TDF - Calculatrice
 
-VII - Application à la programmation - Machine d'état standard NI - Calculatrice
+Cette partie est consacrée à 
+ - L'utilisation et modification de l'achitecture machine d'état réalisée précédemment 
+ - Application concrète - la calculatrice
+
+VIII - Application à la programmation - Machine d'état standard NI - Calculatrice
 
 Cette partie est consacrée à 
  - Compréhension du Template machine d'état NI
  - L'utilisation et modification du Template (passer du standard NI aux standard TDF)
  - Application concrète - la calculatrice
 
-VIII - Application à la programmation - Queue message handler (QMH) 
+IX - Application à la programmation - Queue message handler (QMH) 
 
 Cette partie est consacrée à 
  - Compréhension de l'architecture QMH (standard NI) - initialisation, process et quitte.
@@ -68,7 +73,7 @@ Cette partie est consacrée à
  - Notion du producteur/consommateur
  - Bonnes pratiques de programmation 
 
-IX - Application à la programmation - Queue message handler (QMH) - Calculatrice
+X - Application à la programmation - Queue message handler (QMH) - Calculatrice
 
 Cette partie est consacrée à 
  - Utilisation et modification du Template (passer du standard NI aux standard TDF)
