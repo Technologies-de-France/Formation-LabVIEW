@@ -11,13 +11,13 @@ I - Présentation de l’environnement LabVIEW et notions de base
 Cette partie est consacrée à la présentation de l'outil LabVIEW de l'entreprise National Instrument. 
 Ici vous vous familiariserez avec l’environnement de développement.
 
-II - Les structures 
+II - Présentation des Structures 
 
 Cette partie est consacrée à 
  - l'utilisation des structures de programmation de bases (if, for, while, évènement) 
  - la notion de "langage de flux".
 
-III - Les Tableaux / Cluster et sous programmes (sous VI)
+III - Présentation des Tableaux, Cluster et sous programmes (sous VI)
 
 Cette partie est consacrée à 
  - l'organisation des données en apprenant à utiliser les tableaux et les clusters (stuct en langage C/C++) 
