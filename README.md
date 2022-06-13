@@ -10,18 +10,7 @@
 </tr>
 </thead>
 </table>
-<p></p>
-<table style="height: 189px;" width="770">
-<thead>
-<tr style="height: 153px;">
-<td style="height: 117px; width: 444.931px; text-align: left;">Cette formation, en langue fran&ccedil;aise, est gratuite et libre de droit. Ici vous pourrez d&eacute;marrer &agrave; acqu&eacute;rir des connaissances en programmation LabVIEW "from scratch" et vous am&eacute;liorer jusqu'au niveau architecte.</td>
-<td style="height: 117px; width: 311.111px;">
-<h1 dir="auto" style="text-align: center;"><img src="https://www.technologies-france.com/wp-content/uploads/2022/05/LV_Logo_PowerdBy_centered-wide.png" width="150" height="151" alt="" /></h1>
-</td>
-</tr>
-</thead>
-</table>
-<p></p>
+<p>Cette formation, en langue fran&ccedil;aise, est gratuite et libre de droit. Ici vous pourrez d&eacute;marrer &agrave; acqu&eacute;rir des connaissances en programmation LabVIEW "from scratch" et vous am&eacute;liorer jusqu'au niveau architecte.</p>
 <p dir="auto">Organisation de la formation</p>
 <table border="0" style="height: 180px; width: 47.9902%; border-collapse: collapse;">
 <tbody>
@@ -70,7 +59,7 @@
 </tbody>
 </table>
 <p></p>
-<p></p>
+<h1 dir="auto" style="text-align: center;"><img src="https://www.technologies-france.com/wp-content/uploads/2022/05/LV_Logo_PowerdBy_centered-wide.png" width="150" height="151" alt="" /></h1>
 <h2 dir="auto" id="h_204237571151655104512005"><strong>I - Pr&eacute;sentation de l&rsquo;environnement LabVIEW et notions de base (Partie 1/3)</strong></h2>
 <p dir="auto">Cette partie est consacr&eacute;e &agrave; la pr&eacute;sentation de l'outil LabVIEW de l'entreprise National Instrument. Ici vous vous familiariserez avec l&rsquo;environnement de d&eacute;veloppement.</p>
 <h2 dir="auto" id="h_4774480761351655104528452"><strong>II - Pr&eacute;sentation des Structures&nbsp;(Partie 2/3)</strong></h2>
