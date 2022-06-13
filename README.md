@@ -1,4 +1,4 @@
-# LabVIEW_Training
+<p># LabVIEW_Training</p>
 <p></p>
 <table style="height: 171px;">
 <thead>
@@ -95,14 +95,14 @@
 <li>Int&eacute;gration compl&egrave;te de la gestion des erreurs</li>
 <li>Algorithme et bonnes pratiques</li>
 </ul>
-<h2 dir="auto" id="h_5553695852051655104579980"><strong>VI - Machine d'&eacute;tat, pr&eacute;sentation (Partie 1 /3)</strong></h2>
+<h2 dir="auto" id="h_5553695852051655104579980"><strong>VI - Machine d'&eacute;tat - pr&eacute;sentation (Partie 1 /3)</strong></h2>
 <p dir="auto">Cette partie est consacr&eacute;e &agrave;</p>
 <ul dir="auto">
 <li>Compr&eacute;hension de la machine d'&eacute;tat</li>
 <li>Fabrication d'une machine d'&eacute;tat</li>
 <li>Bonnes pratiques de programmation</li>
 </ul>
-<h2 dir="auto" id="h_2854273072201655104592732"><strong>VII - Machine d'&eacute;tat, Application Calculatrice&nbsp;(Partie 2/3)</strong></h2>
+<h2 dir="auto" id="h_2854273072201655104592732"><strong>VII - Machine d'&eacute;tat - Calculatrice&nbsp;(Partie 2/3)</strong></h2>
 <p dir="auto">Cette partie est consacr&eacute;e &agrave;</p>
 <ul dir="auto">
 <li>L'utilisation et modification de l'achitecture machine d'&eacute;tat r&eacute;alis&eacute;e pr&eacute;c&eacute;demment</li>
