@@ -16,7 +16,7 @@
 <table border="0" style="height: 252px; width: 47.9902%; border-collapse: collapse;">
 <tbody>
 <tr style="height: 18px;">
-<td style="width: 69.2755%; height: 18px;"><strong>Liste des cours &agrave; r&eacute;aliser</strong></td>
+<td style="width: 69.2755%; height: 18px;"><strong>Pr&eacute;sentation de l&rsquo;environnement</strong></td>
 </tr>
 <tr style="height: 18px;">
 <td style="width: 69.2755%; height: 18px;"><a href="#h_204237571151655104512005">Notions de base</a></td>
@@ -136,21 +136,23 @@
 <li>Notion de multithread (Display, Conductor, Command)</li>
 </ul>
 <p></p>
-<p>Liste des cours qu'on fera plus tard&nbsp;</p>
 <p></p>
 <table border="0" style="height: 186px; width: 80.6051%; border-collapse: collapse;">
 <tbody>
 <tr style="height: 18px;">
-<td style="width: 100%; height: 18px;"><strong>Pr&eacute;sentation de l&rsquo;environnement</strong></td>
+<td style="width: 100%; height: 18px;"><strong>Liste des cours &agrave; r&eacute;aliser</strong></td>
 </tr>
 <tr style="height: 18px;">
 <td style="width: 100%; height: 18px;">Le temps&nbsp;</td>
 </tr>
 <tr style="height: 24px;">
-<td style="width: 100%; height: 24px;">Les fichiers</td>
+<td style="width: 100%; height: 24px;">Les fichiers&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 100%;">Les FGV - Functional global variable&nbsp;</td>
 </tr>
 <tr style="height: 18px;">
-<td style="width: 100%; height: 18px;">Festival de la mauvaise programmation</td>
+<td style="width: 100%; height: 18px;">Festival du grand n'importe quoi et de la mauvaise programmation</td>
 </tr>
 <tr style="height: 18px;">
 <td style="width: 100%; height: 18px;">Guide de pr&eacute;paration CLD</td>
