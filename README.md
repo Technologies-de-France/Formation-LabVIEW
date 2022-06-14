@@ -136,7 +136,7 @@
 <li>Notion de multithread (Display, Conductor, Command)</li>
 </ul>
 <p></p>
-<p></p>
+<h2 dir="auto" id="h_5420981842591655104642044"><strong>Pour le futur ...</strong></h2>
 <table border="0" style="height: 186px; width: 80.6051%; border-collapse: collapse;">
 <tbody>
 <tr style="height: 18px;">
