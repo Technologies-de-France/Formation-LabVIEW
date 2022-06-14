@@ -1,5 +1,4 @@
 # LabVIEW_Training
-
 <p></p>
 <table style="height: 171px;">
 <thead>
@@ -19,7 +18,7 @@
 <td style="width: 69.2755%; height: 18px;"><strong>Pr&eacute;sentation de l&rsquo;environnement</strong></td>
 </tr>
 <tr style="height: 18px;">
-<td style="width: 69.2755%; height: 18px;"><a href="#h_204237571151655104512005">Notions de base</a></td>
+<td style="width: 69.2755%; height: 18px;"><a href="/I - Pr&eacute;sentation de l&rsquo;environnement LabVIEW et notions de base/">Notions de base</a></td>
 </tr>
 <tr style="height: 18px;">
 <td style="width: 69.2755%; height: 18px;"><a href="#h_4774480761351655104528452">Structures de programmation</a></td>
