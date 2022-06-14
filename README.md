@@ -1,9 +1,10 @@
 # LabVIEW_Training
+<p># LabVIEW_Training</p>
 <p></p>
 <table style="height: 171px;">
 <thead>
 <tr style="height: 153px;">
-<td style="height: 153px; width: 150px;"><img src="https://avatars.githubusercontent.com/u/72153904?s=200&amp;v=4" width="150" height="150" alt="" /></td>
+<td style="height: 153px; width: 150px;"><a href="http://www.technologies-france.com"><img src="https://avatars.githubusercontent.com/u/72153904?s=200&amp;v=4" width="150" height="150" alt="" /></a></td>
 <td style="height: 153px; width: 608.958px;">
 <h1 dir="auto" style="text-align: center;"><strong>Bienvenue dans la formation TDF LabVIEW France</strong></h1>
 </td>
@@ -59,7 +60,7 @@
 </tbody>
 </table>
 <p></p>
-<h1 dir="auto" style="text-align: center;"><img src="https://www.technologies-france.com/wp-content/uploads/2022/05/LV_Logo_PowerdBy_centered-wide.png" width="150" height="151" alt="" /></h1>
+<h1 dir="auto" style="text-align: center;"><a href="http://www.ni.com"><img src="https://www.technologies-france.com/wp-content/uploads/2022/05/LV_Logo_PowerdBy_centered-wide.png" width="150" height="151" alt="" /></a></h1>
 <h2 dir="auto" id="h_204237571151655104512005"><strong>I - Pr&eacute;sentation de l&rsquo;environnement LabVIEW et notions de base (Partie 1/3)</strong></h2>
 <p dir="auto">Cette partie est consacr&eacute;e &agrave; la pr&eacute;sentation de l'outil LabVIEW de l'entreprise National Instrument. Ici vous vous familiariserez avec l&rsquo;environnement de d&eacute;veloppement.</p>
 <h2 dir="auto" id="h_4774480761351655104528452"><strong>II - Pr&eacute;sentation des Structures&nbsp;(Partie 2/3)</strong></h2>
