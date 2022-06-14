@@ -1,0 +1,10 @@
+<h2 dir="auto" id="h_5222853541721655104555948"><strong>IV - Application &agrave; la programmation - Calculatrice 1 (Partie 1 /2)</strong></h2>
+<p dir="auto">Cette partie est consacr&eacute;e &agrave;</p>
+<ul dir="auto">
+<li>Bonnes pratique de programmation (Documenter son code, agencement du code)</li>
+<li>Utilisation et compr&eacute;hension du flux</li>
+<li>R&eacute;f&eacute;rences, notion de n&oelig;uds de propri&eacute;t&eacute;s et n&oelig;uds de m&eacute;thodes</li>
+<li>Cr&eacute;ation d'une interface</li>
+<li>Cr&eacute;ation d'une structure d'&eacute;v&egrave;nement afin de faire interagir cette interface</li>
+<li>La gestion des erreurs (gestion des exceptions)</li>
+</ul>
