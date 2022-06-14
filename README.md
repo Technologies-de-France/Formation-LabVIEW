@@ -13,10 +13,10 @@
 </table>
 <p>Cette formation, en langue fran&ccedil;aise, est gratuite et libre de droit. Ici vous pourrez d&eacute;marrer &agrave; acqu&eacute;rir des connaissances en programmation LabVIEW "from scratch" et vous am&eacute;liorer jusqu'au niveau architecte.</p>
 <p dir="auto">Organisation de la formation</p>
-<table border="0" style="height: 180px; width: 47.9902%; border-collapse: collapse;">
+<table border="0" style="height: 252px; width: 47.9902%; border-collapse: collapse;">
 <tbody>
-<tr>
-<td style="width: 69.2755%;"><strong>Pr&eacute;sentation de l&rsquo;environnement</strong></td>
+<tr style="height: 18px;">
+<td style="width: 69.2755%; height: 18px;"><strong>Liste des cours &agrave; r&eacute;aliser</strong></td>
 </tr>
 <tr style="height: 18px;">
 <td style="width: 69.2755%; height: 18px;"><a href="#h_204237571151655104512005">Notions de base</a></td>
@@ -24,8 +24,8 @@
 <tr style="height: 18px;">
 <td style="width: 69.2755%; height: 18px;"><a href="#h_4774480761351655104528452">Structures de programmation</a></td>
 </tr>
-<tr>
-<td style="width: 69.2755%;"><a href="#h_4593207471541655104540764">Tableaux, Cluster et sous-VI</a></td>
+<tr style="height: 18px;">
+<td style="width: 69.2755%; height: 18px;"><a href="#h_4593207471541655104540764">Tableaux, Cluster et sous-VI</a></td>
 </tr>
 <tr style="height: 18px;">
 <td style="width: 69.2755%; height: 18px;"><strong>Application &agrave; la programmation</strong></td>
@@ -51,11 +51,11 @@
 <tr style="height: 18px;">
 <td style="width: 69.2755%; height: 18px;"><strong>Queue message handler (QMH)</strong></td>
 </tr>
-<tr>
-<td style="width: 69.2755%;"><a href="#h_8685828812471655104627252">Pr&eacute;sentation</a></td>
+<tr style="height: 18px;">
+<td style="width: 69.2755%; height: 18px;"><a href="#h_8685828812471655104627252">Pr&eacute;sentation</a></td>
 </tr>
-<tr>
-<td style="width: 69.2755%;"><a href="#h_5420981842591655104642044">Application : Calculatrice</a></td>
+<tr style="height: 18px;">
+<td style="width: 69.2755%; height: 18px;"><a href="#h_5420981842591655104642044">Application : Calculatrice</a></td>
 </tr>
 </tbody>
 </table>
@@ -123,12 +123,55 @@
 <li>Notion de files (FIFO)</li>
 <li>Notion d'&eacute;v&egrave;nement cr&eacute;e</li>
 <li>Notion du producteur/consommateur</li>
-<li>Bonnes pratiques de programmation</li>
 </ul>
-<h2 dir="auto" id="h_5420981842591655104642044"><strong>X - Queue message handler (QMH) - Calculatrice</strong></h2>
+<h2 dir="auto" id="h_5420981842591655104642044"><strong>X - Queue message handler (QMH) - Calculatrice 1</strong></h2>
 <p dir="auto">Cette partie est consacr&eacute;e &agrave;</p>
 <ul dir="auto">
 <li>Utilisation et modification du Template (passer du standard NI aux standard TDF)</li>
+<li>Bonnes pratiques de programmation</li>
+</ul>
+<h2 dir="auto" id="h_5420981842591655104642044"><strong>XI - Queue message handler (QMH) - Calculatrice 2</strong></h2>
+<p dir="auto">Cette partie est consacr&eacute;e &agrave;</p>
+<ul dir="auto">
 <li>Notion de multithread (Display, Conductor, Command)</li>
 </ul>
 <p></p>
+<p>Liste des cours qu'on fera plus tard&nbsp;</p>
+<p></p>
+<table border="0" style="height: 186px; width: 80.6051%; border-collapse: collapse;">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 100%; height: 18px;"><strong>Pr&eacute;sentation de l&rsquo;environnement</strong></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 100%; height: 18px;">Le temps&nbsp;</td>
+</tr>
+<tr style="height: 24px;">
+<td style="width: 100%; height: 24px;">Les fichiers</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 100%; height: 18px;">Festival de la mauvaise programmation</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 100%; height: 18px;">Guide de pr&eacute;paration CLD</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 100%; height: 18px;">Les objets</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 100%; height: 18px;">Guide de pr&eacute;paration CLA</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 100%; height: 18px;">L'architecture en pipe&nbsp;</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 100%; height: 18px;">L'actor Framework</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 100%; height: 18px;">Pointeur et gestion de la m&eacute;moire bas niveau sous LabVIEW</td>
+</tr>
+<tr>
+<td style="width: 100%;">Et si on faisait un peut de C/C++ !!</td>
+</tr>
+</tbody>
+</table>
