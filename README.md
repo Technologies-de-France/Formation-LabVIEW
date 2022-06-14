@@ -1,5 +1,5 @@
 # LabVIEW_Training
-<p># LabVIEW_Training</p>
+
 <p></p>
 <table style="height: 171px;">
 <thead>
@@ -52,10 +52,13 @@
 <td style="width: 69.2755%; height: 18px;"><strong>Queue message handler (QMH)</strong></td>
 </tr>
 <tr style="height: 18px;">
-<td style="width: 69.2755%; height: 18px;"><a href="#h_8685828812471655104627252">Pr&eacute;sentation</a></td>
+<td style="width: 69.2755%; height: 18px;"><a href="#h_75746598831655196174577">Pr&eacute;sentation</a></td>
 </tr>
 <tr style="height: 18px;">
-<td style="width: 69.2755%; height: 18px;"><a href="#h_5420981842591655104642044">Application : Calculatrice</a></td>
+<td style="width: 69.2755%; height: 18px;"><a href="#h_19145186881655196198344">Application : Calculatrice 1</a></td>
+</tr>
+<tr>
+<td style="width: 69.2755%;"><a href="#h_174031069121655196260265">Application : Calculatrice 2 (multithread)</a></td>
 </tr>
 </tbody>
 </table>
@@ -116,7 +119,7 @@
 <li>L'utilisation et modification du Template (passer du standard NI aux standard TDF)</li>
 <li>Application concr&egrave;te - la calculatrice</li>
 </ul>
-<h2 dir="auto"><strong>IX - Queue message handler - QMH&nbsp;&nbsp;</strong><strong>(Partie 1 /3)</strong></h2>
+<h2 dir="auto" id="h_75746598831655196174577"><strong>IX - Queue message handler - QMH&nbsp;&nbsp;</strong><strong>(Partie 1 /3)</strong></h2>
 <p dir="auto">Cette partie est consacr&eacute;e &agrave;</p>
 <ul dir="auto">
 <li>Compr&eacute;hension de l'architecture QMH (standard NI) - initialisation, process et quitte.</li>
@@ -124,13 +127,13 @@
 <li>Notion d'&eacute;v&egrave;nement cr&eacute;e</li>
 <li>Notion du producteur/consommateur</li>
 </ul>
-<h2 dir="auto"><strong>X - Queue message handler&nbsp;</strong><strong>- QMH&nbsp;</strong><strong>- Calculatrice 1&nbsp;</strong><strong>&nbsp;</strong><strong>(Partie 2 /3)</strong></h2>
+<h2 dir="auto" id="h_19145186881655196198344"><strong>X - Queue message handler&nbsp;</strong><strong>- QMH&nbsp;</strong><strong>- Calculatrice 1&nbsp;</strong><strong>&nbsp;</strong><strong>(Partie 2 /3)</strong></h2>
 <p dir="auto">Cette partie est consacr&eacute;e &agrave;</p>
 <ul dir="auto">
 <li>Utilisation et modification du Template (passer du standard NI aux standard TDF)</li>
 <li>Bonnes pratiques de programmation</li>
 </ul>
-<h2 dir="auto"><strong>XI -&nbsp;</strong><strong>Queue message handler&nbsp;</strong><strong>- QMH&nbsp;</strong><strong>- Calculatrice 2&nbsp;</strong><strong>&nbsp;</strong><strong>(Partie 3 /3)</strong></h2>
+<h2 dir="auto" id="h_174031069121655196260265"><strong>XI -&nbsp;</strong><strong>Queue message handler&nbsp;</strong><strong>- QMH&nbsp;</strong><strong>- Calculatrice 2&nbsp;</strong><strong>&nbsp;</strong><strong>(Partie 3 /3)</strong></h2>
 <p dir="auto">Cette partie est consacr&eacute;e &agrave;</p>
 <ul dir="auto">
 <li>Notion de multithread (Display, Conductor, Command)</li>
