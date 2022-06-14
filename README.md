@@ -21,43 +21,43 @@
 <td style="width: 69.2755%; height: 18px;"><a href="/I - Pr&eacute;sentation de l&rsquo;environnement LabVIEW et notions de base/">Notions de base</a></td>
 </tr>
 <tr style="height: 18px;">
-<td style="width: 69.2755%; height: 18px;"><a href="#h_4774480761351655104528452">Structures de programmation</a></td>
+<td style="width: 69.2755%; height: 18px;"><a href="/II - Pr&eacute;sentation des Structures/">Structures de programmation</a></td>
 </tr>
 <tr style="height: 18px;">
-<td style="width: 69.2755%; height: 18px;"><a href="#h_4593207471541655104540764">Tableaux, Cluster et sous-VI</a></td>
+<td style="width: 69.2755%; height: 18px;"><a href="/III - Pr&eacute;sentation des Tableaux, Cluster et sous-VI/">Tableaux, Cluster et sous-VI</a></td>
 </tr>
 <tr style="height: 18px;">
 <td style="width: 69.2755%; height: 18px;"><strong>Application &agrave; la programmation</strong></td>
 </tr>
 <tr style="height: 18px;">
-<td style="width: 69.2755%; height: 18px;"><a href="#h_5222853541721655104555948">Calculatrice 1</a></td>
+<td style="width: 69.2755%; height: 18px;"><a href="/IV - Application &agrave; la programmation - Calculatrice 1/">Calculatrice 1</a></td>
 </tr>
 <tr style="height: 18px;">
-<td style="width: 69.2755%; height: 18px;"><a href="#h_5135321981891655104568876">Calculatrice 2</a></td>
+<td style="width: 69.2755%; height: 18px;"><a href="/V - Application &agrave; la programmation - Calculatrice 2/">Calculatrice 2</a></td>
 </tr>
 <tr style="height: 18px;">
 <td style="width: 69.2755%; height: 18px;"><strong>Machine d'&eacute;tat</strong></td>
 </tr>
 <tr style="height: 18px;">
-<td style="width: 69.2755%; height: 18px;"><a href="#h_5553695852051655104579980">Pr&eacute;sentation </a></td>
+<td style="width: 69.2755%; height: 18px;"><a href="/VI - Machine d'&eacute;tat, pr&eacute;sentation/">Pr&eacute;sentation </a></td>
 </tr>
 <tr style="height: 18px;">
-<td style="width: 69.2755%; height: 18px;"><a href="#h_2854273072201655104592732">Application : Calculatrice</a></td>
+<td style="width: 69.2755%; height: 18px;"><a href="/VII - Machine d'&eacute;tat, Application Calculatrice/">Application : Calculatrice</a></td>
 </tr>
 <tr style="height: 18px;">
-<td style="width: 69.2755%; height: 18px;"><a href="#h_4426628992341655104607692">Le template NI</a></td>
+<td style="width: 69.2755%; height: 18px;"><a href="/VIII - Machine d'&eacute;tat, le template NI/">Le template NI</a></td>
 </tr>
 <tr style="height: 18px;">
 <td style="width: 69.2755%; height: 18px;"><strong>Queue message handler (QMH)</strong></td>
 </tr>
 <tr style="height: 18px;">
-<td style="width: 69.2755%; height: 18px;"><a href="#h_75746598831655196174577">Pr&eacute;sentation</a></td>
+<td style="width: 69.2755%; height: 18px;"><a href="/IX - Queue message handler (QMH)/">Pr&eacute;sentation</a></td>
 </tr>
 <tr style="height: 18px;">
-<td style="width: 69.2755%; height: 18px;"><a href="#h_19145186881655196198344">Application : Calculatrice 1</a></td>
+<td style="width: 69.2755%; height: 18px;"><a href="/X - Queue message handler - QMH - Calculatrice 1/">Application : Calculatrice 1</a></td>
 </tr>
 <tr>
-<td style="width: 69.2755%;"><a href="#h_174031069121655196260265">Application : Calculatrice 2 (multithread)</a></td>
+<td style="width: 69.2755%;"><a href="/XI - Queue message handler - QMH - Calculatrice 2/">Application : Calculatrice 2 (multithread)</a></td>
 </tr>
 </tbody>
 </table>
