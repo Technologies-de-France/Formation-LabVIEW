@@ -2,5 +2,5 @@
 <p dir="auto">Cette partie est consacr&eacute;e &agrave;</p>
 <ul dir="auto">
 <li>l'utilisation des structures de programmation de bases (if, for, while, &eacute;v&egrave;nement)</li>
-<li>la notion de "langage de flux".</li>
+<li>la notion de "langage de flux"</li>
 </ul>
