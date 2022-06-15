@@ -3,6 +3,6 @@
 <ul dir="auto">
 <li>Compr&eacute;hension de l'architecture QMH (standard NI) - initialisation, process et sortie.</li>
 <li>Notion de files (FIFO)</li>
-<li>Notion d'&eacute;v&egrave;nement cr&eacute;e</li>
+<li>Notion d'&eacute;v&egrave;nement cr&eacute;&eacute;</li>
 <li>Notion du producteur/consommateur</li>
 </ul>
