@@ -1,5 +1,5 @@
 <h2 dir="auto" id="h_5222853541721655104555948"><strong>IV - Application &agrave; la programmation - Calculatrice 1 (Partie 1 /2)</strong></h2>
-<p dir="auto">Cette partie est consacr&eacute;e &agrave;</p>
+
 <ul dir="auto">
 <li>Bonnes pratiques de programmation (documenter son code, agencer du code)</li>
 <li>Utilisation et compr&eacute;hension du flux</li>
