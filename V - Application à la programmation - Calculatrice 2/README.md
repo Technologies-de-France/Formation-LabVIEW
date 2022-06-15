@@ -4,7 +4,7 @@
 <li>D&eacute;claration des variables avant initialisation</li>
 <li>Registre &agrave; d&eacute;calage</li>
 <li>Utilisation d'une locale</li>
-<li>Maitrise de la conversion des donn&eacute;es</li>
+<li>Ma&icirc;trise de la conversion des donn&eacute;es</li>
 <li>Int&eacute;gration compl&egrave;te de la gestion des erreurs</li>
 <li>Algorithme et bonnes pratiques</li>
 </ul>
