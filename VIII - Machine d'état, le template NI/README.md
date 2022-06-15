@@ -2,6 +2,6 @@
 <p dir="auto">Cette partie est consacr&eacute;e &agrave;</p>
 <ul dir="auto">
 <li>Compr&eacute;hension du Template machine d'&eacute;tat NI</li>
-<li>L'utilisation et modification du Template (passer du standard NI aux standard TDF)</li>
+<li>Utilisation et modification du Template (passer du standard NI au standard TDF)</li>
 <li>Application concr&egrave;te - la calculatrice</li>
 </ul>
