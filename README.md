@@ -1,4 +1,4 @@
-# LabVIEW_Training
+# Formation_LabVIEW
 
 <p></p>
 <table style="height: 171px;">
@@ -6,12 +6,12 @@
 <tr style="height: 153px;">
 <td style="height: 153px; width: 150px;"><a href="http://www.technologies-france.com"><img src="https://avatars.githubusercontent.com/u/72153904?s=200&amp;v=4" width="150" height="150" alt="" /></a></td>
 <td style="height: 153px; width: 608.958px;">
-<h1 dir="auto" style="text-align: center;"><strong>Bienvenue dans la formation TDF LabVIEW France</strong></h1>
+<h1 dir="auto" style="text-align: center;"><strong>Bienvenue dans la formation TDF LabVIEW&nbsp;</strong></h1>
 </td>
 </tr>
 </thead>
 </table>
-<p>Cette formation, en langue fran&ccedil;aise, est gratuite et libre de droit. Ici vous pourrez d&eacute;marrer &agrave; acqu&eacute;rir des connaissances en programmation LabVIEW "from scratch" et vous am&eacute;liorer jusqu'au niveau architecte.</p>
+<p>Cette formation, en langue fran&ccedil;aise, est gratuite et libre de droit. Ici vous pourrez commencer &agrave; acqu&eacute;rir des connaissances en programmation LabVIEW "from scratch" et vous am&eacute;liorer jusqu'au niveau Architecte.</p>
 <p dir="auto">Organisation de la formation</p>
 <table border="0" style="height: 252px; width: 47.9902%; border-collapse: collapse;">
 <tbody>
@@ -25,7 +25,7 @@
 <td style="width: 69.2755%; height: 18px;"><a href="/II - Pr&eacute;sentation des Structures/">Structures de programmation</a></td>
 </tr>
 <tr style="height: 18px;">
-<td style="width: 69.2755%; height: 18px;"><a href="/III - Pr&eacute;sentation des Tableaux, Cluster et sous-VI/">Tableaux, Cluster et sous-VI</a></td>
+<td style="width: 69.2755%; height: 18px;"><a href="/III - Pr&eacute;sentation des Tableaux, Cluster et sous-VI/">Tableaux, Clusters et sous-VI</a></td>
 </tr>
 <tr style="height: 18px;">
 <td style="width: 69.2755%; height: 18px;"><strong>Application &agrave; la programmation</strong></td>
@@ -65,41 +65,41 @@
 <p></p>
 <h1 dir="auto" style="text-align: center;"><a href="http://www.ni.com"><img src="https://www.technologies-france.com/wp-content/uploads/2022/05/LV_Logo_PowerdBy_centered-wide.png" width="150" height="151" alt="" /></a></h1>
 <p></p>
-<h2 dir="auto" id="h_5420981842591655104642044"><strong>Liste des cours &agrave; r&eacute;aliser pour le futur ...&nbsp;</strong></h2>
-<table border="0" style="height: 186px; width: 80.6051%; border-collapse: collapse;">
+<h2 dir="auto" id="h_5420981842591655104642044"><strong>Liste des th&egrave;mes encore &agrave; aborder dans le futur ...&nbsp;</strong></h2>
+<table width="188" style="width: 479px;">
 <tbody>
-<tr style="height: 18px;">
-<td style="width: 100%; height: 18px;">Le temps&nbsp;</td>
-</tr>
-<tr style="height: 24px;">
-<td style="width: 100%; height: 24px;">Les fichiers&nbsp;</td>
+<tr>
+<td style="width: 469px;">Festival du grand n'importe quoi et de la mauvaise programmation</td>
 </tr>
 <tr>
-<td style="width: 100%;">Les FGV - Functional global variable&nbsp;</td>
-</tr>
-<tr style="height: 18px;">
-<td style="width: 100%; height: 18px;">Festival du grand n'importe quoi et de la mauvaise programmation</td>
-</tr>
-<tr style="height: 18px;">
-<td style="width: 100%; height: 18px;">Guide de pr&eacute;paration CLD</td>
-</tr>
-<tr style="height: 18px;">
-<td style="width: 100%; height: 18px;">Les objets</td>
-</tr>
-<tr style="height: 18px;">
-<td style="width: 100%; height: 18px;">Guide de pr&eacute;paration CLA</td>
-</tr>
-<tr style="height: 18px;">
-<td style="width: 100%; height: 18px;">L'architecture en pipe&nbsp;</td>
-</tr>
-<tr style="height: 18px;">
-<td style="width: 100%; height: 18px;">L'actor Framework</td>
-</tr>
-<tr style="height: 18px;">
-<td style="width: 100%; height: 18px;">Pointeur et gestion de la m&eacute;moire bas niveau sous LabVIEW</td>
+<td style="width: 469px;">Guide de pr&eacute;paration CLA</td>
 </tr>
 <tr>
-<td style="width: 100%;">Et si on faisait un peut de C/C++ !!</td>
+<td style="width: 469px;">Guide de pr&eacute;paration CLD</td>
+</tr>
+<tr>
+<td style="width: 469px;">L'actor Framework</td>
+</tr>
+<tr>
+<td style="width: 469px;">L'architecture en pipe&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 469px;">Le temps&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 469px;">Les FGV - Functional global variable&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 469px;">Les fichiers&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 469px;">Les objets</td>
+</tr>
+<tr>
+<td style="width: 469px;">Les templates</td>
+</tr>
+<tr>
+<td style="width: 469px;">Pointeur et gestion de la m&eacute;moire bas niveau sous LabVIEW</td>
 </tr>
 </tbody>
 </table>
