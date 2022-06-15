@@ -1,5 +1,5 @@
 <h2 dir="auto" id="h_5553695852051655104579980"><strong>VI - Machine d'&eacute;tat - pr&eacute;sentation (Partie 1 /3)</strong></h2>
-<p dir="auto">Cette partie est consacr&eacute;e &agrave;</p>
+
 <ul dir="auto">
 <li>Compr&eacute;hension de la machine d'&eacute;tat</li>
 <li>Fabrication d'une machine d'&eacute;tat</li>
