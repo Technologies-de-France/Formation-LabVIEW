@@ -8,3 +8,5 @@
 <li>Int&eacute;gration compl&egrave;te de la gestion des erreurs</li>
 <li>Algorithme et bonnes pratiques</li>
 </ul>
+<p dir="auto"></p>
+<p>&nbsp;<a href=""><img src="Chapitre V Youtube.png" width="640" height="362" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></a></p>
