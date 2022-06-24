@@ -5,3 +5,7 @@
 <li>Fabrication d'une machine d'&eacute;tat</li>
 <li>Bonnes pratiques de programmation</li>
 </ul>
+
+<p dir="auto"></p>
+<p>&nbsp;<a href=""><img src="Chapitre VI Youtube.png" width="640" height="362" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></a></p>
+
