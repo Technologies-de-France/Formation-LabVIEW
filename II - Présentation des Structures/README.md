@@ -4,3 +4,5 @@
 <li>Utilisation des structures de programmation de bases (if, for, while, &eacute;v&egrave;nement)</li>
 <li>Notion de "langage de flux"</li>
 </ul>
+<p dir="auto"></p>
+<p>&nbsp;<a href=""><img src="Chapitre II Youtube.png" width="640" height="362" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></a></p>
