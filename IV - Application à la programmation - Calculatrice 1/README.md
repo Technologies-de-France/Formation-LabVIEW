@@ -9,4 +9,4 @@
 <li>Gestion des erreurs (gestion des exceptions)</li>
 </ul>
 <p dir="auto"></p>
-<p>&nbsp;<a href=""><img src="Chapitre IV Youtube.png" width="640" height="362" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></a></p>
+<p>&nbsp;<a href="https://youtu.be/GcIGwImzzWk"><img src="Chapitre IV Youtube.png" width="640" height="362" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></a></p>
