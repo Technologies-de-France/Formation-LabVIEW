@@ -7,4 +7,4 @@
 </ul>
 
 <p dir="auto"></p>
-<p>&nbsp;<a href="https://youtu.be/TtMW1skEqY8"><img src="Chapitre III Youtube.png" width="640" height="362" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></a></p>
+<p>&nbsp;<a href="https://www.youtube.com/watch?v=TtMW1skEqY8&list=PLtioRYPUn23qZI5o7T2YRwBJtOnd1qmXa&index=3&ab_channel=TechnologiesdeFrance%28TDF%29"><img src="Chapitre III Youtube.png" width="640" height="362" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></a></p>
