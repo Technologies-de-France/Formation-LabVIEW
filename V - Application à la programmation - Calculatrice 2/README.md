@@ -9,4 +9,4 @@
 <li>Algorithme et bonnes pratiques</li>
 </ul>
 <p dir="auto"></p>
-<p>&nbsp;<a href="https://youtu.be/pE_qMOwD6OM"><img src="Chapitre V Youtube.png" width="640" height="362" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></a></p>
+<p>&nbsp;<a href="https://www.youtube.com/watch?v=pE_qMOwD6OM&list=PLtioRYPUn23qZI5o7T2YRwBJtOnd1qmXa&index=5&ab_channel=TechnologiesdeFrance%28TDF%29"><img src="Chapitre V Youtube.png" width="640" height="362" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></a></p>
