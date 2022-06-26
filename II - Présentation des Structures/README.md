@@ -5,4 +5,4 @@
 <li>Notion de "langage de flux"</li>
 </ul>
 <p dir="auto"></p>
-<p>&nbsp;<a href="https://youtu.be/pPqvE9282YU"><img src="Chapitre II Youtube.png" width="640" height="362" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></a></p>
+<p>&nbsp;<a href="https://www.youtube.com/watch?v=pPqvE9282YU&list=PLtioRYPUn23qZI5o7T2YRwBJtOnd1qmXa&index=2&ab_channel=TechnologiesdeFrance%28TDF%29"><img src="Chapitre II Youtube.png" width="640" height="362" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></a></p>
