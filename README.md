@@ -1,5 +1,4 @@
-# Formation LabVIEW
-
+<p># Formation LabVIEW</p>
 <p></p>
 <table style="height: 171px;">
 <thead>
@@ -13,7 +12,7 @@
 </table>
 <p>Cette formation, en langue fran&ccedil;aise, est gratuite et libre de droit. Ici vous pourrez commencer &agrave; acqu&eacute;rir des connaissances en programmation LabVIEW "from scratch" et vous am&eacute;liorer jusqu'au niveau Architecte.</p>
 <p dir="auto">Organisation de la formation</p>
-<table border="0" style="height: 252px; width: 47.9902%; border-collapse: collapse;">
+<table border="0" style="height: 324px; width: 47.9902%; border-collapse: collapse;">
 <tbody>
 <tr style="height: 18px;">
 <td style="width: 69.2755%; height: 18px;"><strong>Pr&eacute;sentation de l&rsquo;environnement</strong></td>
@@ -57,8 +56,17 @@
 <tr style="height: 18px;">
 <td style="width: 69.2755%; height: 18px;"><a href="/X - Queue message handler - QMH - Calculatrice 1/">Application : Calculatrice 1</a></td>
 </tr>
-<tr>
-<td style="width: 69.2755%;"><a href="/XI - Queue message handler - QMH - Calculatrice 2/">Application : Calculatrice 2 (multithread)</a></td>
+<tr style="height: 18px;">
+<td style="width: 69.2755%; height: 18px;"><a href="/XI - Queue message handler - QMH - Calculatrice 2/">Application : Calculatrice 2 (multithread)</a></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 69.2755%; height: 18px;"><strong><span>Functional Global Variable</span> (FGV)</strong></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 69.2755%; height: 18px;"><a href="/IX - Queue message handler (QMH)/">Pr&eacute;sentation</a></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 69.2755%; height: 18px;"><a href="/X - Queue message handler - QMH - Calculatrice 1/">Application : Le chronom&egrave;tre</a></td>
 </tr>
 </tbody>
 </table>
@@ -66,40 +74,31 @@
 <h1 dir="auto" style="text-align: center;"><a href="http://www.ni.com"><img src="https://www.technologies-france.com/wp-content/uploads/2022/05/LV_Logo_PowerdBy_centered-wide.png" width="150" height="151" alt="" /></a></h1>
 <p></p>
 <h2 dir="auto" id="h_5420981842591655104642044"><strong>Liste des th&egrave;mes encore &agrave; aborder dans le futur ...&nbsp;</strong></h2>
-<table width="188" style="width: 479px;">
+<table width="188" style="width: 479px; height: 180px;">
 <tbody>
-<tr>
-<td style="width: 469px;">Festival du grand n'importe quoi et de la mauvaise programmation</td>
+<tr style="height: 36px;">
+<td style="width: 470.347px; height: 36px;">Festival du grand n'importe quoi et de la mauvaise programmation</td>
 </tr>
-<tr>
-<td style="width: 469px;">Guide de pr&eacute;paration CLA</td>
+<tr style="height: 18px;">
+<td style="width: 470.347px; height: 18px;">Guide de pr&eacute;paration CLA</td>
 </tr>
-<tr>
-<td style="width: 469px;">Guide de pr&eacute;paration CLD</td>
+<tr style="height: 18px;">
+<td style="width: 470.347px; height: 18px;">Guide de pr&eacute;paration CLD</td>
 </tr>
-<tr>
-<td style="width: 469px;">L'actor Framework</td>
+<tr style="height: 18px;">
+<td style="width: 470.347px; height: 18px;">L'actor Framework</td>
 </tr>
-<tr>
-<td style="width: 469px;">L'architecture en pipe&nbsp;</td>
+<tr style="height: 18px;">
+<td style="width: 470.347px; height: 18px;">L'architecture en pipe&nbsp;</td>
 </tr>
-<tr>
-<td style="width: 469px;">Le temps&nbsp;</td>
+<tr style="height: 18px;">
+<td style="width: 470.347px; height: 18px;">Les fichiers&nbsp;</td>
 </tr>
-<tr>
-<td style="width: 469px;">Les FGV - Functional global variable&nbsp;</td>
+<tr style="height: 18px;">
+<td style="width: 470.347px; height: 18px;">Les objets</td>
 </tr>
-<tr>
-<td style="width: 469px;">Les fichiers&nbsp;</td>
-</tr>
-<tr>
-<td style="width: 469px;">Les objets</td>
-</tr>
-<tr>
-<td style="width: 469px;">Les templates</td>
-</tr>
-<tr>
-<td style="width: 469px;">Pointeur et gestion de la m&eacute;moire bas niveau sous LabVIEW</td>
+<tr style="height: 18px;">
+<td style="width: 470.347px; height: 18px;">Pointeur et gestion de la m&eacute;moire bas niveau sous LabVIEW</td>
 </tr>
 </tbody>
 </table>
