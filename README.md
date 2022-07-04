@@ -63,10 +63,10 @@
 <td style="width: 69.2755%; height: 18px;"><strong><span>Functional Global Variable</span> (FGV)</strong></td>
 </tr>
 <tr style="height: 18px;">
-<td style="width: 69.2755%; height: 18px;"><a href="/IX - Queue message handler (QMH)/">Pr&eacute;sentation</a></td>
+<td style="width: 69.2755%; height: 18px;"><a href="/XII - FGV, pr&eacute;sentation/">Pr&eacute;sentation</a></td>
 </tr>
 <tr style="height: 18px;">
-<td style="width: 69.2755%; height: 18px;"><a href="/X - Queue message handler - QMH - Calculatrice 1/">Application : Le chronom&egrave;tre</a></td>
+<td style="width: 69.2755%; height: 18px;"><a href="/XIII - FGV - Chronom&egrave;tre/">Application : Le chronom&egrave;tre</a></td>
 </tr>
 </tbody>
 </table>
