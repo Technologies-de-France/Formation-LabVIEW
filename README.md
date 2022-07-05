@@ -24,7 +24,7 @@
 <td style="width: 69.2755%; height: 18px;"><a href="/2 - Pr&eacute;sentation des Structures/">Structures de programmation</a></td>
 </tr>
 <tr style="height: 18px;">
-<td style="width: 69.2755%; height: 18px;"><a href="/3 - Pr&eacute;sentation des Tableaux, Cluster et sous-VI/">Tableaux, Clusters et sous-VI</a></td>
+<td style="width: 69.2755%; height: 18px;"><a href="/3 - Pr&eacute;sentation des Tableaux, Clusters et sous-VI/">Tableaux, Clusters et sous-VI</a></td>
 </tr>
 <tr style="height: 18px;">
 <td style="width: 69.2755%; height: 18px;"><strong>Application &agrave; la programmation</strong></td>
