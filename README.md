@@ -95,6 +95,12 @@
 <table width="188" style="width: 479px; height: 180px;">
 <tbody>
 <tr style="height: 18px;">
+<td style="width: 470.347px; height: 18px;">Les DLL</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 470.347px; height: 18px;">LabVIEW et Python</td>
+</tr>
+<tr style="height: 18px;">
 <td style="width: 470.347px; height: 18px;">L'actor Framework</td>
 </tr>
 <tr style="height: 18px;">
