@@ -77,6 +77,15 @@
 <tr>
 <td style="width: 69.2755%;">Le pire du LabVIEW</td>
 </tr>
+<tr>
+<td style="width: 69.2755%;"><strong>Pr&eacute;paration aux certifications</strong></td>
+</tr>
+<tr>
+<td style="width: 69.2755%;">CLD (Certified LabVIEW Developer)</td>
+</tr>
+<tr>
+<td style="width: 69.2755%;">CLA (Certified LabVIEW Architect)</td>
+</tr>
 </tbody>
 </table>
 <p></p>
