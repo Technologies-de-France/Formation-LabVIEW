@@ -74,7 +74,7 @@
 <td style="width: 69.2755%;"><strong>Hors serie</strong></td>
 </tr>
 <tr>
-<td style="width: 69.2755%;">Le pire du LabVIEW</td>
+<td style="width: 69.2755%;">Le pire code en LabVIEW</td>
 </tr>
 <tr>
 <td style="width: 69.2755%;"><strong>Pr&eacute;paration aux certifications</strong></td>
