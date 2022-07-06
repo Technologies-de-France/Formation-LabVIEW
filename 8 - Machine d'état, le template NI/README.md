@@ -4,4 +4,5 @@
 <li>Compr&eacute;hension du Template machine d'&eacute;tat NI</li>
 <li>Utilisation et modification du Template (passer du standard NI au standard TDF)</li>
 <li>Application concr&egrave;te - la calculatrice</li>
-</ul>
+</ul><p dir="auto"></p>
+<p>&nbsp;<a href="https://youtu.be/uwicgakivuk"><img src="Chapitre VIII Youtube.png" width="640" height="362" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></a></p>
