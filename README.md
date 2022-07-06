@@ -1,15 +1,11 @@
 <p># Formation LabVIEW</p>
 <p></p>
-<table style="height: 171px; width: 902px;">
+<table style="height: 171px; width: 679px;">
 <thead>
 <tr style="height: 153px;">
 <td style="height: 153px; width: 150px;"><a href="http://www.technologies-france.com"><img src="https://avatars.githubusercontent.com/u/72153904?s=200&amp;v=4" width="150" height="150" alt="" /></a></td>
-<td style="height: 153px; width: 567.431px;">
-<h1 dir="auto" style="text-align: center;"><strong>Bienvenue dans la formation TDF LabVIEW&nbsp;</strong></h1>
-</td>
-<td style="width: 165.295px;">
-<dir="auto" style="text-align: center;"><a href="http://www.ni.com"><img src="https://www.technologies-france.com/wp-content/uploads/2022/05/LV_Logo_PowerdBy_centered-wide.png" width="150" height="151" alt="" style="float: left;" /></a>
-</td>
+<td style="height: 153px; width: 340.087px;"><strong>Bienvenue dans la formation TDF LabVIEW&nbsp;</strong></td>
+<td style="width: 169.635px;"><a href="http://www.ni.com"><img src="https://www.technologies-france.com/wp-content/uploads/2022/05/LV_Logo_PowerdBy_centered-wide.png" width="150" height="151" alt="" style="float: left;" /></a></td>
 </tr>
 </thead>
 </table>
@@ -91,7 +87,9 @@
 </tr>
 </tbody>
 </table>
-<h2 dir="auto" id="h_5420981842591655104642044"><strong>Liste des th&egrave;mes encore &agrave; aborder dans le futur ...&nbsp;</strong></h2>
+<p></p>
+<p><strong>Liste des th&egrave;mes encore &agrave; aborder dans le futur ...&nbsp;</strong></p>
+<p><strong></strong></p>
 <table width="188" style="width: 479px; height: 180px;">
 <tbody>
 <tr style="height: 18px;">
