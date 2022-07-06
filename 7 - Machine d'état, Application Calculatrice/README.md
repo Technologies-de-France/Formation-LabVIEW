@@ -6,4 +6,4 @@
 </ul>
 
 <p dir="auto"></p>
-<p>&nbsp;<a href=""><img src="Chapitre VII Youtube.png" width="640" height="362" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></a></p>
+<p>&nbsp;<a href="https://youtu.be/dYEOGbuxsJc"><img src="Chapitre VII Youtube.png" width="640" height="362" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></a></p>
