@@ -1,1 +1,0 @@
-https://education.ni.com/badges/resources/1256/certified-labview-architect-cla
