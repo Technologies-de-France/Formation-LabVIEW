@@ -17,58 +17,58 @@
 <td style="width: 69.2755%; height: 18px;"><strong>Pr&eacute;sentation de l&rsquo;environnement</strong></td>
 </tr>
 <tr style="height: 18px;">
-<td style="width: 69.2755%; height: 18px;"><a href="/1 - Pr&eacute;sentation de l&rsquo;environnement LabVIEW et notions de base/">Notions de base</a></td>
+<td style="width: 69.2755%; height: 18px;"><a href="/A-1 Pr&eacute;sentation de l&rsquo;environnement LabVIEW et notions de base/">Notions de base</a></td>
 </tr>
 <tr style="height: 18px;">
-<td style="width: 69.2755%; height: 18px;"><a href="/2 - Pr&eacute;sentation des Structures/">Structures de programmation</a></td>
+<td style="width: 69.2755%; height: 18px;"><a href="/A-2 Pr&eacute;sentation des Structures/">Structures de programmation</a></td>
 </tr>
 <tr style="height: 18px;">
-<td style="width: 69.2755%; height: 18px;"><a href="/3 - Pr&eacute;sentation des Tableaux, Clusters et sous-VI/">Tableaux, Clusters et sous-VI</a></td>
+<td style="width: 69.2755%; height: 18px;"><a href="/A-3 Pr&eacute;sentation des Tableaux, Clusters et sous-VI/">Tableaux, Clusters et sous-VI</a></td>
 </tr>
 <tr style="height: 18px;">
 <td style="width: 69.2755%; height: 18px;"><strong>Application &agrave; la programmation</strong></td>
 </tr>
 <tr style="height: 18px;">
-<td style="width: 69.2755%; height: 18px;"><a href="/4 - Application &agrave; la programmation - Calculatrice 1/">Calculatrice 1</a></td>
+<td style="width: 69.2755%; height: 18px;"><a href="/B-1 Application &agrave; la programmation - Calculatrice 1/">Calculatrice 1</a></td>
 </tr>
 <tr style="height: 18px;">
-<td style="width: 69.2755%; height: 18px;"><a href="/5 - Application &agrave; la programmation - Calculatrice 2/">Calculatrice 2</a></td>
+<td style="width: 69.2755%; height: 18px;"><a href="/B-2 Application &agrave; la programmation - Calculatrice 2/">Calculatrice 2</a></td>
 </tr>
 <tr style="height: 18px;">
 <td style="width: 69.2755%; height: 18px;"><strong>Machine d'&eacute;tat</strong></td>
 </tr>
 <tr style="height: 18px;">
-<td style="width: 69.2755%; height: 18px;"><a href="/6 - Machine d'&eacute;tat, pr&eacute;sentation/">Pr&eacute;sentation </a></td>
+<td style="width: 69.2755%; height: 18px;"><a href="/C-1 Machine d'&eacute;tat, pr&eacute;sentation/">Pr&eacute;sentation </a></td>
 </tr>
 <tr style="height: 18px;">
-<td style="width: 69.2755%; height: 18px;"><a href="/7 - Machine d'&eacute;tat, Application Calculatrice/">Application : Calculatrice</a></td>
+<td style="width: 69.2755%; height: 18px;"><a href="/C-2 Machine d'&eacute;tat, Application Calculatrice/">Application : Calculatrice</a></td>
 </tr>
 <tr style="height: 18px;">
-<td style="width: 69.2755%; height: 18px;"><a href="/8 - Machine d'&eacute;tat, le template NI/">Le template NI</a></td>
+<td style="width: 69.2755%; height: 18px;"><a href="/C-3 Machine d'&eacute;tat, le template NI/">Le template NI</a></td>
 </tr>
 <tr style="height: 18px;">
 <td style="width: 69.2755%; height: 18px;"><strong>Queue message handler (QMH)</strong></td>
 </tr>
 <tr style="height: 18px;">
-<td style="width: 69.2755%; height: 18px;"><a href="/9 - Queue message handler (QMH)/">Pr&eacute;sentation</a></td>
+<td style="width: 69.2755%; height: 18px;"><a href="/D-1 Queue message handler - QMH/">Pr&eacute;sentation</a></td>
 </tr>
 <tr style="height: 18px;">
-<td style="width: 69.2755%; height: 18px;"><a href="/10 - Queue message handler - QMH - Calculatrice 1/">Application : Calculatrice 1</a></td>
+<td style="width: 69.2755%; height: 18px;">Application : Calculatrice 1</td>
 </tr>
 <tr style="height: 18px;">
-<td style="width: 69.2755%; height: 18px;"><a href="/11 - Queue message handler - QMH - Calculatrice 2/">Application : Calculatrice 2 (multithread)</a></td>
+<td style="width: 69.2755%; height: 18px;">Application : Calculatrice 2 (multithread)</td>
 </tr>
 <tr style="height: 18px;">
 <td style="width: 69.2755%; height: 18px;"><strong><span>Functional Global Variable</span> (FGV)</strong></td>
 </tr>
 <tr style="height: 18px;">
-<td style="width: 69.2755%; height: 18px;"><a href="/12 - FGV, pr&eacute;sentation/">Pr&eacute;sentation</a></td>
+<td style="width: 69.2755%; height: 18px;">Pr&eacute;sentation</td>
 </tr>
 <tr style="height: 18px;">
-<td style="width: 69.2755%; height: 18px;"><a href="/13 - FGV - Chronom&egrave;tre/">Application : Le chronom&egrave;tre</a></td>
+<td style="width: 69.2755%; height: 18px;">Application : Le chronom&egrave;tre</td>
 </tr>
 <tr>
-<td style="width: 69.2755%;"><a href="/14 - FGV - File/">Application : Fichier INI</a></td>
+<td style="width: 69.2755%;">Application : Fichier INI</td>
 </tr>
 <tr>
 <td style="width: 69.2755%;"><strong>Hors serie</strong></td>
