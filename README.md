@@ -10,6 +10,12 @@
 </thead>
 </table>
 <p>Cette formation, en langue fran&ccedil;aise, est gratuite et libre de droit. Ici vous pourrez commencer &agrave; acqu&eacute;rir des connaissances en programmation LabVIEW "from scratch" et vous am&eacute;liorer jusqu'au niveau Architecte.</p>
+<p></p>
+
+<p dir="auto"></p>
+<p>&nbsp;<a href="https://youtu.be/X6WzSAv5a-w"><img src="Formation.png" width="640" height="362" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></a></p>
+<p></p>
+<p></p>
 <p dir="auto">Organisation de la formation</p>
 <table border="0" style="height: 324px; width: 47.9902%; border-collapse: collapse;">
 <tbody>
