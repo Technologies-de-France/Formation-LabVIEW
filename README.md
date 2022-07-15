@@ -13,7 +13,7 @@
 <p></p>
 
 <p dir="auto"></p>
-<p>&nbsp;<a href="https://youtu.be/X6WzSAv5a-w"><img src="Formation.png" width="640" height="362" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></a></p>
+<p>&nbsp;<a href="https://www.youtube.com/watch?v=X6WzSAv5a-w&list=PLtioRYPUn23qZI5o7T2YRwBJtOnd1qmXa&ab_channel=TechnologiesdeFrance%28TDF%29"><img src="Formation.png" width="640" height="362" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></a></p>
 <p></p>
 <p></p>
 <p dir="auto">Organisation de la formation</p>
