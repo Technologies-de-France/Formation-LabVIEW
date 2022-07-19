@@ -11,13 +11,12 @@
 </table>
 <p>Cette formation, en langue fran&ccedil;aise, est gratuite et libre de droit. Ici vous pourrez commencer &agrave; acqu&eacute;rir des connaissances en programmation LabVIEW "from scratch" et vous am&eacute;liorer jusqu'au niveau Architecte.</p>
 <p></p>
-
 <p dir="auto"></p>
-<p>&nbsp;<a href="https://www.youtube.com/watch?v=ZRYl4eiulQM&list=PLtioRYPUn23rmTQmI3XhCEMH0Tcn9y50z&ab_channel=TechnologiesdeFrance%28TDF%29"><img src="Formation.png" width="640" height="362" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></a></p>
+<p>&nbsp;<a href="https://www.youtube.com/watch?v=ZRYl4eiulQM&amp;list=PLtioRYPUn23rmTQmI3XhCEMH0Tcn9y50z&amp;ab_channel=TechnologiesdeFrance%28TDF%29"><img src="Formation.png" width="640" height="362" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></a></p>
 <p></p>
 <p></p>
 <p dir="auto">Organisation de la formation</p>
-<table border="0" style="height: 324px; width: 47.9902%; border-collapse: collapse;">
+<table border="0" style="height: 468px; width: 47.9902%; border-collapse: collapse;">
 <tbody>
 <tr style="height: 18px;">
 <td style="width: 69.2755%; height: 18px;"><strong>Pr&eacute;sentation de l&rsquo;environnement</strong></td>
@@ -73,23 +72,29 @@
 <tr style="height: 18px;">
 <td style="width: 69.2755%; height: 18px;">Application : Le chronom&egrave;tre</td>
 </tr>
-<tr>
-<td style="width: 69.2755%;">Application : Fichier INI</td>
+<tr style="height: 18px;">
+<td style="width: 69.2755%; height: 18px;">Application : Fichier INI</td>
 </tr>
-<tr>
-<td style="width: 69.2755%;"><strong>Hors serie</strong></td>
+<tr style="height: 18px;">
+<td style="width: 69.2755%; height: 18px;"><strong>Certified LabVIEW Developer (CLD)</strong></td>
 </tr>
-<tr>
-<td style="width: 69.2755%;">Le pire code en LabVIEW</td>
+<tr style="height: 18px;">
+<td style="width: 69.2755%; height: 18px;">Pr&eacute;sentation</td>
 </tr>
-<tr>
-<td style="width: 69.2755%;"><strong>Pr&eacute;paration aux certifications</strong></td>
+<tr style="height: 18px;">
+<td style="width: 69.2755%; height: 18px;">Cauchemard en LabVIEW</td>
 </tr>
-<tr>
-<td style="width: 69.2755%;">CLD (Certified LabVIEW Developer)</td>
+<tr style="height: 18px;">
+<td style="width: 69.2755%; height: 18px;">Application : Examen</td>
 </tr>
-<tr>
-<td style="width: 69.2755%;">CLA (Certified LabVIEW Architect)</td>
+<tr style="height: 18px;">
+<td style="width: 69.2755%; height: 18px;"><strong>Certified LabVIEW Architect (CLA)</strong></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 69.2755%; height: 18px;">Pr&eacute;sentation</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 69.2755%; height: 18px;">Application : Examen</td>
 </tr>
 </tbody>
 </table>
