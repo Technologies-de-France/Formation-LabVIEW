@@ -8,6 +8,6 @@
 </ul>
 <p>&nbsp;<a><img src="Chapitre XV Youtube.png" width="640" height="362" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></a></p>
 <p></p>
-<p>N'oubliez pas de vous entrainer sur les exercices et de regarder les corrections que nous vous proposons !! <a href="/Exercices/">ici</a></p>
+<p>N'oubliez pas de vous entrainer sur les exercices et de regarder les corrections que nous vous proposons !! <a href="../Exercices/">ici</a></p>
 <p>Lien officiel NI :&nbsp;</p>
 <pre><a href="https://education.ni.com/badges/resources/1255/certified-labview-developer-cld" rel="nofollow">https://education.ni.com/badges/resources/1255/certified-labview-developer-cld</a></pre>
