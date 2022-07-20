@@ -9,5 +9,8 @@
 <p>&nbsp;<a><img src="Chapitre XV Youtube.png" width="640" height="362" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></a></p>
 <p></p>
 <p>N'oubliez pas de vous entrainer sur les exercices et de regarder les corrections que nous vous proposons !! <a href="https://github.com/Technologies-de-France/Formation-LabVIEW/tree/main/F-1%20CLD%20Presentation/Exercices">ici</a></p>
+<p></p>
+<p>Vous pouvez &eacute;galement consulter le&nbsp;<a class="js-navigation-open Link--primary" title="cld_exam_prep_guide_english.pdf" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" href="https://github.com/Technologies-de-France/Formation-LabVIEW/blob/main/F-1%20CLD%20Presentation/cld_exam_prep_guide_english.pdf">cld_exam_prep_guide_english.pdf</a>&nbsp;.</p>
+<p></p>
 <p>Lien officiel NI :&nbsp;</p>
 <pre><a href="https://education.ni.com/badges/resources/1255/certified-labview-developer-cld" rel="nofollow">https://education.ni.com/badges/resources/1255/certified-labview-developer-cld</a></pre>
