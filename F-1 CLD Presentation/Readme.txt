@@ -1,1 +1,0 @@
-https://education.ni.com/badges/resources/1255/certified-labview-developer-cld
