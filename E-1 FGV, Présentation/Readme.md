@@ -6,3 +6,6 @@
 <li>Notion d'execution re-entrante/non re-entrante</li>
 <li>Notion de Functional global variable</li>
 </ul>
+<p dir="auto"></p>
+<p>&nbsp;<a href=""><img src="Chapitre XII Youtube.png" width="640" height="362" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></a></p>
+
