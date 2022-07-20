@@ -2,3 +2,6 @@
 <ul dir="auto">
 <li>Notion de temps</li>
 </ul>
+<p dir="auto"></p>
+<p>&nbsp;<a href=""><img src="Chapitre XIII Youtube.png" width="640" height="362" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></a></p>
+
