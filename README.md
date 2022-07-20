@@ -58,34 +58,34 @@
 <td style="width: 69.2755%; height: 18px;"><a href="/D-1 Queue message handler - QMH/">Pr&eacute;sentation</a></td>
 </tr>
 <tr style="height: 18px;">
-<td style="width: 69.2755%; height: 18px;">Application : Calculatrice 1</td>
+<td style="width: 69.2755%; height: 18px;"><a href="/D-2%20Queue message handler - QMH - Calculatrice 1/">Application : Calculatrice 1</a></td>
 </tr>
 <tr style="height: 18px;">
-<td style="width: 69.2755%; height: 18px;">Application : Calculatrice 2 (multithread)</td>
+<td style="width: 69.2755%; height: 18px;"><a href="/D-3%20Queue message handler - QMH - Calculatrice 2/">Application : Calculatrice 2 (multithread)</a></td>
 </tr>
 <tr style="height: 18px;">
 <td style="width: 69.2755%; height: 18px;"><strong><span>Functional Global Variable</span> (FGV)</strong></td>
 </tr>
 <tr style="height: 18px;">
-<td style="width: 69.2755%; height: 18px;">Pr&eacute;sentation</td>
+<td style="width: 69.2755%; height: 18px;"><a href="/E-1%20FGV, Pr&eacute;sentation/">Pr&eacute;sentation</a></td>
 </tr>
 <tr style="height: 18px;">
-<td style="width: 69.2755%; height: 18px;">Application : Le chronom&egrave;tre</td>
+<td style="width: 69.2755%; height: 18px;"><a href="/E-2%20FGV - Chronom&egrave;tre/">Application : Le chronom&egrave;tre</a></td>
 </tr>
 <tr style="height: 18px;">
-<td style="width: 69.2755%; height: 18px;">Application : Fichier INI</td>
+<td style="width: 69.2755%; height: 18px;"><a href="/E-3%20FGV - File/">Application : Fichier INI</a></td>
 </tr>
 <tr style="height: 18px;">
 <td style="width: 69.2755%; height: 18px;"><strong>Certified LabVIEW Developer (CLD)</strong></td>
 </tr>
 <tr style="height: 18px;">
-<td style="width: 69.2755%; height: 18px;">Pr&eacute;sentation</td>
+<td style="width: 69.2755%; height: 18px;"><a href="/F-1%20CLD Presentation/">Pr&eacute;sentation</a></td>
 </tr>
 <tr style="height: 18px;">
-<td style="width: 69.2755%; height: 18px;">Cauchemard en LabVIEW</td>
+<td style="width: 69.2755%; height: 18px;"><a href="/F-2%20CLD Cauchemard en LabVIEW/">Cauchemard en LabVIEW</a></td>
 </tr>
 <tr style="height: 18px;">
-<td style="width: 69.2755%; height: 18px;">Application : Examen</td>
+<td style="width: 69.2755%; height: 18px;"><a href="/F-3%20CLD Application/">Application : Examen</a></td>
 </tr>
 <tr style="height: 18px;">
 <td style="width: 69.2755%; height: 18px;"><strong>Certified LabVIEW Architect (CLA)</strong></td>
