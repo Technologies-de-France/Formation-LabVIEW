@@ -1,0 +1,106 @@
+Simulation Interface Requirements
+[Covers: SI1] 
+[Covers: SI2] 
+
+User Interface Requirements
+[Covers: UI1]
+[Covers: UI2] 
+[Covers: UI2A] 
+[Covers: UI2B]
+[Covers: UI2C]
+[Covers: UI3] 
+[Covers: UI3A] 
+[Covers: UI3B] 
+[Covers: UI3C] 
+[Covers: UI4] 
+[Covers: UI4A] 
+[Covers: UI4B] 
+
+Initial State Requirements
+[Covers: IS1]
+[Covers: IS2] 
+[Covers: IS3] 
+
+User Message Requirements
+[Covers: UM1] 
+[Covers: UM1A]	
+
+Idle State Requirements
+[Covers: ID1] 
+[Covers: ID1A]   
+[Covers: ID1B] 
+[Covers: ID1C] 
+ 
+Login State Requirements
+[Covers: LO1] 
+[Covers: LO1B]
+[Covers: LO2]
+[Covers: LO2A] 
+[Covers: LO3] 
+[Covers: LO3A] 
+[Covers: LO3B] 
+[Covers: LO3C] 
+[Covers: LO3C1] 
+[Covers: LO3C2] 
+
+Balance Inquiry State Requirements
+[Covers: BI1] 
+[Covers: BI1A] 
+[Covers: BI1B]  
+
+Deposit State Requirements
+[Covers: DP1] 
+[Covers: DP1A] 
+[Covers: DP1B] 
+[Covers: DP1C] 
+[Covers: DP1C1] 
+[Covers: DP1C2] 
+[Covers: DP1C3] 
+[Covers: DP1D] 
+
+Withdrawal State Requirements
+[Covers: WD1] 
+[Covers: WD1A]  
+[Covers: WD1B] 
+[Covers: WD1C] 
+[Covers: WD1D]
+[Covers: WD1E] 
+
+Fast Cash State Requirements
+[Covers: FC1] 
+[Covers: FC1A] 
+[Covers: FC1B] 
+[Covers: FC1C] 
+[Covers: FC1C1] 
+[Covers: FC1C2] 
+
+Terminate State Requirements
+[Covers: TS1] 
+[Covers: TS1A] 
+[Covers: TS1B] 
+[Covers: TS1C] 
+
+Inactivity Timeout Requirements
+[Covers: IT1] 
+
+Configuration Database Requirements
+[Covers: CD1] 
+[Covers: CD1A] 
+[Covers: CD1B] 
+[Covers: CD1C] 
+[Covers: CD1D] 
+[Covers: CD2] 
+[Covers: CD2A] 
+[Covers: CD3] 
+[Covers: CD4] 
+[Covers: CD5] 
+
+Error Handling Requirements
+[Covers: EH1] 
+[Covers: EH1A] 
+[Covers: EH1B] 
+[Covers: EH1B1] 
+[Covers: EH1B2] 
+[Covers: EH2] 
+[Covers: EH3] 
+[Covers: EH4]

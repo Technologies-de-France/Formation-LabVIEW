@@ -1,0 +1,35 @@
+Welcome to Acme Bank.
+Please insert your card.
+
+Please enter your Account Number on the keypad.
+Press Enter (E) when done.
+Account Number: [User-Entered]
+
+Welcome to Acme Bank
+First Name from DB, Last Name from DB
+Please select a transaction by using the buttons.
+
+Account Information Incorrect
+Please re-enter your Account Number.
+Press Enter (E) when done.
+Account Number: [User-Entered]
+
+
+Your session has been terminated due to due to inactivity or menu selection.
+Goodbye!
+
+Please enter amount to deposit and press Enter (E) when done.
+Deposit Amount: $[User-Entered]
+
+Please enter amount to withdraw and press Enter (E) when done.
+Withdrawal Amount: $[User-Entered]
+
+Fast Cash $50 withdrawal processing
+
+Please remove cash from the ATM.
+
+Insufficient funds in account.
+Please check your account balance and try again.
+
+Your Balance is:
+$ (Balance Amount from Database)
