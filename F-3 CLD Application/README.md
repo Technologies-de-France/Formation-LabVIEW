@@ -1,8 +1,8 @@
-<h2 dir="auto" id="user-content-h_174031069121655196260265"><strong>XVII -&nbsp;Certified LabVIEW Developer</strong><strong>&nbsp;</strong><strong>- Application : Examen</strong><strong>(Partie 3/3)</strong></h2>
+<h2 dir="auto" id="user-content-h_174031069121655196260265"><strong>&nbsp;Certified LabVIEW Developer</strong><strong>&nbsp;</strong><strong>- Application : Examen</strong><strong>(Partie 3/3)</strong></h2>
 <ul dir="auto">
 <li>Un exemple d'examen avec sa correction</li>
 </ul>
-<p>&nbsp;<a><img src="Chapitre XVII Youtube.png" width="640" height="362" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></a></p>
+<p>&nbsp;<a><img src="CLD Application Examen.png" width="640" height="362" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></a></p>
 <p></p>
 <p>N'oubliez pas de vous entrainer sur les exercices et de regarder les corrections que nous vous proposons !! <a href="https://github.com/Technologies-de-France/Formation-LabVIEW/tree/main/F-1%20CLD%20Presentation/Exercices">ici</a></p>
 <p>Mise &agrave; disposition d'autres examens <a href="https://github.com/Technologies-de-France/Formation-LabVIEW/tree/main/F-3%20CLD%20Application/Sample%20exams"> ici</a></p>
