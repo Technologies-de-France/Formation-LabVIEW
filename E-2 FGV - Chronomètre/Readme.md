@@ -3,5 +3,5 @@
 <li>Notion de temps</li>
 </ul>
 <p dir="auto"></p>
-<p>&nbsp;<a href=""><img src="FGV application le chronometre.png" width="640" height="362" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></a></p>
+<p>&nbsp;<a href=""><img src="FGVchronometre.png" width="640" height="362" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></a></p>
 
