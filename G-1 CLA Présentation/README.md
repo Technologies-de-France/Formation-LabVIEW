@@ -1,6 +1,6 @@
 <h2 dir="auto" id="user-content-h_174031069121655196260265"><strong>&nbsp;Certified LabVIEW Architect</strong><strong>&nbsp;</strong><strong>- Pr&eacute;sentation </strong><strong>(Partie 1/2)</strong></h2>
 <ul dir="auto">
-<li>Pr&eacute;sentation de la certification CLD</li>
+<li>Pr&eacute;sentation de la certification CLA</li>
 <li>Modalit&eacute;s de l'examen</li>
 <li>Gestion de l'examen</li>
 <li>R&eacute;capitulatif des r&egrave;gles de bonnes pratiques</li>
