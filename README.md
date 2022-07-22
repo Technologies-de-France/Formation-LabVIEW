@@ -91,10 +91,10 @@
 <td style="width: 69.2755%; height: 18px;"><strong>Certified LabVIEW Architect (CLA)</strong></td>
 </tr>
 <tr style="height: 18px;">
-<td style="width: 69.2755%; height: 18px;">Pr&eacute;sentation</td>
+<td style="width: 69.2755%; height: 18px;"><a href="/G-1%20CLA Pr&eacute;sentation/">Pr&eacute;sentation</a></td>
 </tr>
 <tr style="height: 18px;">
-<td style="width: 69.2755%; height: 18px;">Application : Examen</td>
+<td style="width: 69.2755%; height: 18px;"><a href="/G-2%20CLA Application/">Application : Examen</a></td>
 </tr>
 </tbody>
 </table>
