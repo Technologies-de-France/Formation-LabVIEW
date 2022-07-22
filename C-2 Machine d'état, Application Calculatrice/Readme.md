@@ -6,4 +6,4 @@
 </ul>
 
 <p dir="auto"></p>
-<p>&nbsp;<a href="https://youtu.be/dYEOGbuxsJc"><img src="Machine d'état Calculatrice.png" width="640" height="362" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></a></p>
+<p>&nbsp;<a href="https://www.youtube.com/watch?v=U6OFgcPVCF8&list=PLtioRYPUn23rmTQmI3XhCEMH0Tcn9y50z&index=8&ab_channel=TechnologiesdeFrance%28TDF%29"><img src="Machine d'état Calculatrice.png" width="640" height="362" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></a></p>
