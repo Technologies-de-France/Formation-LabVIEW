@@ -9,4 +9,4 @@
 <li>Gestion des erreurs (gestion des exceptions)</li>
 </ul>
 <p dir="auto"></p>
-<p>&nbsp;<a href="https://youtu.be/B5EliDz4-_Q"><img src="Application à la programmation - calculatrice I.png" width="640" height="362" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></a></p>
+<p>&nbsp;<a href="https://www.youtube.com/watch?v=SEWKJE0VEqU&list=PLtioRYPUn23rmTQmI3XhCEMH0Tcn9y50z&index=5&ab_channel=TechnologiesdeFrance%28TDF%29" width="640" height="362" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></a></p>
