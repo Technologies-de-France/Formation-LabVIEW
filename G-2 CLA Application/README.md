@@ -4,7 +4,8 @@
 </ul>
 <p>&nbsp;<a><img src="CLA Application Examen.png" width="640" height="362" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></a></p>
 <p></p>
-<p>N'oubliez pas de vous entrainer sur les exercices et de regarder les corrections que nous vous proposons !! <a href="https://github.com/Technologies-de-France/Formation-LabVIEW/tree/main/F-1%20CLD%20Presentation/Exercices">ici</a></p>
+<p>Sujet et correction ATM&nbsp;<a href="https://github.com/Technologies-de-France/Formation-LabVIEW/tree/main/G-2%20CLA%20Application/ATM">ici</a></p>
+<p>Sujet et correction Elevator&nbsp;<a href="https://github.com/Technologies-de-France/Formation-LabVIEW/tree/main/G-2%20CLA%20Application/Elevator%20Exam">ici</a></p>
 <p>Mise &agrave; disposition d'autres examens (CLA)&nbsp;<a href="https://github.com/Technologies-de-France/Formation-LabVIEW/tree/main/G-1%20CLA%20Pr%C3%A9sentation/Sample%20exams">ici</a></p>
 <p>Vous pouvez &eacute;galement consulter le <a class="js-navigation-open Link--primary" title="cla_exam_prep_guide.pdf" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" href="https://github.com/Technologies-de-France/Formation-LabVIEW/blob/main/G-1%20CLA%20Pr%C3%A9sentation/cla_exam_prep_guide.pdf">cla_exam_prep_guide.pdf</a></p>
 <p>Vous pouvez &eacute;galement consulter le&nbsp;<a class="js-navigation-open Link--primary" title="cla_exam_prep_guide_french.pdf" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" href="https://github.com/Technologies-de-France/Formation-LabVIEW/blob/main/G-1%20CLA%20Pr%C3%A9sentation/cla_exam_prep_guide_french.pdf">cla_exam_prep_guide_french.pdf</a>&nbsp;</p>
