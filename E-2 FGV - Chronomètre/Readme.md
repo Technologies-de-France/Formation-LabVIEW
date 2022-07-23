@@ -3,5 +3,5 @@
 <li>Notion de temps</li>
 </ul>
 <p dir="auto"></p>
-<p>&nbsp;<a href=""><img src="FGVchronometre.png" width="640" height="362" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></a></p>
+<p>&nbsp;<a href="https://www.youtube.com/watch?v=ekhDuBCvVCI&list=PLtioRYPUn23rmTQmI3XhCEMH0Tcn9y50z&index=14&ab_channel=TechnologiesdeFrance%28TDF%29"><img src="FGVchronometre.png" width="640" height="362" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></a></p>
 
