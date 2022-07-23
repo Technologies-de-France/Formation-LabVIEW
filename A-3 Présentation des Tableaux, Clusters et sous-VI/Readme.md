@@ -1,10 +1,14 @@
-<h2 dir="auto" id="h_4774480761351655104528452"><strong>Pr&eacute;sentation des Structures&nbsp;(Partie 2/3)</strong></h2>
+<h2 dir="auto" id="h_4593207471541655104540764"><strong>Pr&eacute;sentation des Tableaux, Clusters et sous-VI (Partie 3/3)</strong></h2>
+
 <ul dir="auto">
-<li>Utilisation des structures de programmation de bases (if, for, while, &eacute;v&egrave;nement)</li>
-<li>Notion de "langage de flux"</li>
+<li>Organisation des donn&eacute;es en apprenant &agrave; utiliser les tableaux et les clusters (stuct en langage C/C++)</li>
+<li>Utilisation de la structure de s&eacute;quence</li>
+<li>Introduction &agrave; la notion de sous VI</li>
 </ul>
+
 <p dir="auto"></p>
-<p>&nbsp;<a href="https://www.youtube.com/watch?v=PEJbc9J_bzc&amp;list=PLtioRYPUn23rmTQmI3XhCEMH0Tcn9y50z&amp;index=3&amp;ab_channel=TechnologiesdeFrance%28TDF%29"><img src="Presentation des structures de programmation.png" width="640" height="362" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></a></p>
+<p>&nbsp;<a href="https://www.youtube.com/watch?v=TtMW1skEqY8&list=PLtioRYPUn23qZI5o7T2YRwBJtOnd1qmXa&index=3&ab_channel=TechnologiesdeFrance%28TDF%29"><img src="Presentation des tableaux clusters et subvi.png" width="640" height="362" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></a></p>
+
 <p></p>
 <p></p>
 <table border="0" style="width: 100%; border-collapse: collapse; border-style: none;">
