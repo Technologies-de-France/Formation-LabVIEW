@@ -4,7 +4,7 @@
 <li>Notion de "langage de flux"</li>
 </ul>
 <p dir="auto"></p>
-<p>&nbsp;<a href="https://www.youtube.com/watch?v=AoOCVHYBvXY&list=PLtioRYPUn23rmTQmI3XhCEMH0Tcn9y50z&index=4&ab_channel=TechnologiesdeFrance%28TDF%29"><img src="Presentation des structures de programmation.png" width="640" height="362" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></a></p>
+<p>&nbsp;<a href="https://www.youtube.com/watch?v=PEJbc9J_bzc&list=PLtioRYPUn23rmTQmI3XhCEMH0Tcn9y50z&index=3&ab_channel=TechnologiesdeFrance%28TDF%29"><img src="Presentation des structures de programmation.png" width="640" height="362" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></a></p>
 <table border="0" style="width: 100%; border-collapse: collapse; border-style: none;">
 <tbody>
 <tr>
