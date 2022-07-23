@@ -6,7 +6,7 @@
 <li>R&eacute;capitulatif des r&egrave;gles de bonnes pratiques</li>
 <li>Conseils pour r&eacute;ussir cet examen</li>
 </ul>
-<p>&nbsp;<a><img src="CLD presentation.png" width="640" height="362" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></a></p>
+<p>&nbsp;<a href="https://www.youtube.com/watch?v=LF9DW1vDyN8&amp;list=PLtioRYPUn23rmTQmI3XhCEMH0Tcn9y50z&amp;index=15&amp;ab_channel=TechnologiesdeFrance%28TDF%29"><img src="CLD presentation.png" width="640" height="362" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></a></p>
 <p></p>
 <p>N'oubliez pas de vous entrainer sur les exercices et de regarder les corrections que nous vous proposons !! <a href="https://github.com/Technologies-de-France/Formation-LabVIEW/tree/main/F-1%20CLD%20Presentation/Exercices">ici</a></p>
 <p></p>
