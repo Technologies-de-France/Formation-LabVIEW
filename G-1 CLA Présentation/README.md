@@ -1,6 +1,10 @@
 <h2 dir="auto" id="user-content-h_174031069121655196260265"><strong>Certified LabVIEW Architect&nbsp;</strong><strong>- Pr&eacute;sentation </strong><strong>(Partie 1/2)</strong></h2>
 <ul dir="auto">
-<li>Un exemple d'examen avec sa correction</li>
+<li>Pr&eacute;sentation de la certification CLA</li>
+<li>Modalit&eacute;s de l'examen</li>
+<li>Gestion de l'examen</li>
+<li>R&eacute;capitulatif des r&egrave;gles de bonnes pratiques</li>
+<li>Conseils pour r&eacute;ussir cet examen</li>
 </ul>
 <p>&nbsp;<a><img src="CLA presentation.png" width="640" height="362" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></a></p>
 <p></p>
