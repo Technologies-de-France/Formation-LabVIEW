@@ -12,3 +12,13 @@
 <p></p>
 <p>Lien officiel NI :&nbsp;</p>
 <pre><a href="https://education.ni.com/badges/resources/1256/certified-labview-architect-cla" rel="nofollow">https://education.ni.com/badges/resources/1256/certified-labview-architect-cla</a></pre>
+<p></p>
+<table border="0" style="width: 100%; border-collapse: collapse; border-style: none;">
+<tbody>
+<tr>
+<td style="width: 50%;"><a href="/G-1%20CLA Pr&eacute;sentation/">Pr&eacute;c&eacute;dent (CLA - Pr&eacute;sentation)</a></td>
+<td style="width: 50%; text-align: right;"></td>
+</tr>
+</tbody>
+</table>
+<p dir="auto" id="user-content-h_4774480761351655104528452" style="text-align: left;"></p>
