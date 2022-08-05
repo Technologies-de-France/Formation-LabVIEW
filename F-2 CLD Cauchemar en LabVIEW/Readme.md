@@ -3,7 +3,7 @@
 <li>Quelques mauvaises pratiques &agrave; bannir</li>
 <li>D&eacute;couverte de l'un des pires code LabVIEW depuis Jesus Christ</li>
 </ul>
-<p>&nbsp;<a><img src="Chapitre XVI Youtube.png" width="640" height="362" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></a></p>
+<p>&nbsp;<a href="https://www.youtube.com/watch?v=g6wMDti2m3s&list=PLtioRYPUn23rmTQmI3XhCEMH0Tcn9y50z&index=17&ab_channel=TechnologiesdeFrance%28TDF%29"><a><img src="Chapitre XVI Youtube.png" width="640" height="362" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></a></p>
 <p></p>
 <table border="0" style="width: 100%; border-collapse: collapse; border-style: none;">
 <tbody>
