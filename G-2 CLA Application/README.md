@@ -2,8 +2,11 @@
 <ul dir="auto">
 <li>Un exemple d'examen avec sa correction</li>
 </ul>
-<p>&nbsp;<a><img src="CLA Application Examen.png" width="640" height="362" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></a></p>
+
+
+<p>&nbsp;<a href="https://www.youtube.com/watch?v=s5gRpyTOnwM&list=PLtioRYPUn23rmTQmI3XhCEMH0Tcn9y50z&index=20&ab_channel=TechnologiesdeFrance%28TDF%29"><img src="CLA Application Examen.png" width="640" height="362" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></a></p>
 <p></p>
+
 <p>Sujet et correction ATM&nbsp;<a href="https://github.com/Technologies-de-France/Formation-LabVIEW/tree/main/G-2%20CLA%20Application/ATM">ici</a></p>
 <p>Sujet et correction Elevator&nbsp;<a href="https://github.com/Technologies-de-France/Formation-LabVIEW/tree/main/G-2%20CLA%20Application/Elevator%20Exam">ici</a></p>
 <p>Mise &agrave; disposition d'autres examens (CLA)&nbsp;<a href="https://github.com/Technologies-de-France/Formation-LabVIEW/tree/main/G-1%20CLA%20Pr%C3%A9sentation/Sample%20exams">ici</a></p>
