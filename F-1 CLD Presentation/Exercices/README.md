@@ -1,5 +1,5 @@
 
-<p>N'oubliez pas de vous entrainer sur les exercices et de regarder les corrections que nous vous proposons !! <a href="https://github.com/Technologies-de-France/Formation-LabVIEW/tree/main/F-1%20CLD%20Presentation/Exercices">ici</a></p>
+
 <table border="1" style="border-collapse: collapse; width: 99.9999%; height: 360px;">
 <tbody>
 <tr style="height: 18px;">
