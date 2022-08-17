@@ -2,8 +2,10 @@
 <ul dir="auto">
 <li>Un exemple d'examen avec sa correction</li>
 </ul>
-<p>&nbsp;<a><img src="CLD Application Examen.png" width="640" height="362" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></a></p>
+
+<p>&nbsp;<a href="https://www.youtube.com/watch?v=4yY0E_b5H_s&list=PLtioRYPUn23rmTQmI3XhCEMH0Tcn9y50z&index=18&ab_channel=TechnologiesdeFrance%28TDF%29"><img src="CLD Application Examen.png" width="640" height="362" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></a></p>
 <p></p>
+
 <p>N'oubliez pas de vous entrainer sur les exercices et de regarder les corrections que nous vous proposons !! <a href="https://github.com/Technologies-de-France/Formation-LabVIEW/tree/main/F-1%20CLD%20Presentation/Exercices">ici</a></p>
 <p>Mise &agrave; disposition d'autres examens <a href="https://github.com/Technologies-de-France/Formation-LabVIEW/tree/main/F-3%20CLD%20Application/Sample%20exams"> ici</a></p>
 <p>Vous pouvez &eacute;galement consulter le&nbsp;<a class="js-navigation-open Link--primary" title="cld_exam_prep_guide_english.pdf" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" href="https://github.com/Technologies-de-France/Formation-LabVIEW/blob/main/F-1%20CLD%20Presentation/cld_exam_prep_guide_english.pdf">cld_exam_prep_guide_english.pdf</a>&nbsp;.</p>
