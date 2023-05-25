@@ -159,10 +159,10 @@
 <table width="188" style="width: 479px; height: 108px;">
 <tbody>
 <tr style="height: 18px;">
-<td style="width: 469px; height: 18px;">Le java</td>
+<td style="width: 469px; height: 18px;">Le Java</td>
 </tr>
 <tr style="height: 18px;">
-<td style="width: 469px; height: 18px;">Le javascript</td>
+<td style="width: 469px; height: 18px;">Le JavaScript</td>
 </tr>
 <tr style="height: 18px;">
 <td style="width: 469px; height: 18px;">L'actor Framework</td>
