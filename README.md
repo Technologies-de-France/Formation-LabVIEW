@@ -99,27 +99,82 @@
 </tbody>
 </table>
 <p></p>
-<p><strong>Liste des th&egrave;mes encore &agrave; aborder dans le futur ...&nbsp;</strong></p>
-<p><strong></strong></p>
-<table width="188" style="width: 479px; height: 180px;">
+<p dir="auto"><strong>Saison 2 - 2023</strong></p>
+<table border="0" style="height: 468px; width: 49.1655%; border-collapse: collapse;">
 <tbody>
 <tr style="height: 18px;">
-<td style="width: 470.347px; height: 18px;">Les DLL</td>
+<td style="width: 69.2755%; height: 18px;"><strong>Programmation orient&eacute;e objet (POO)</strong></td>
 </tr>
 <tr style="height: 18px;">
-<td style="width: 470.347px; height: 18px;">LabVIEW et Python</td>
+<td style="width: 69.2755%; height: 18px;">Introduction et&nbsp;Notions de base</td>
 </tr>
 <tr style="height: 18px;">
-<td style="width: 470.347px; height: 18px;">L'actor Framework</td>
+<td style="width: 69.2755%; height: 18px;">Application</td>
 </tr>
 <tr style="height: 18px;">
-<td style="width: 470.347px; height: 18px;">L'architecture en pipe&nbsp;</td>
+<td style="width: 69.2755%; height: 18px;">Utilisation</td>
 </tr>
 <tr style="height: 18px;">
-<td style="width: 470.347px; height: 18px;">Les objets</td>
+<td style="width: 69.2755%; height: 18px;"><strong>LabVIEW connectivity</strong></td>
 </tr>
 <tr style="height: 18px;">
-<td style="width: 470.347px; height: 18px;">Pointeur et gestion de la m&eacute;moire bas niveau sous LabVIEW</td>
+<td style="width: 69.2755%; height: 18px;">Le C et les&nbsp;<span>Dynamic Link Library (DLL)</span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 69.2755%; height: 18px;">Le .net</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 69.2755%; height: 18px;">Le Python</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 69.2755%; height: 18px;">Les registres (Regedit)</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 69.2755%; height: 18px;"><strong>Webserver</strong></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 69.2755%; height: 18px;">Introduction</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 69.2755%; height: 18px;">Application</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 69.2755%; height: 18px;"><strong>LabVIEW UI</strong></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 69.2755%; height: 18px;">Les menus</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 69.2755%; height: 18px;">Boutons en vectoriel</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 69.2755%; height: 18px;">Xcontrol</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+
+<p><strong>Liste des th&egrave;mes encore &agrave; aborder dans le futur ...&nbsp;</strong></p>
+<p><strong></strong></p>
+<table width="188" style="width: 479px; height: 108px;">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 469px; height: 18px;">Le java</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 469px; height: 18px;">Le javascript</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 469px; height: 18px;">L'actor Framework</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 469px; height: 18px;">L'architecture en pipe&nbsp;</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 469px; height: 18px;">le scripting</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 469px; height: 18px;">Pointeur et gestion de la m&eacute;moire bas niveau sous LabVIEW</td>
 </tr>
 </tbody>
 </table>
