@@ -106,10 +106,10 @@
 <td style="width: 69.2755%; height: 18px;"><strong>Programmation orient&eacute;e objet (POO)</strong></td>
 </tr>
 <tr style="height: 18px;">
-<td style="width: 69.2755%; height: 18px;">Introduction et&nbsp;Notions de base</td>
+<td style="width: 69.2755%; height: 18px;"><a href="/H-1 Programmation orientée objet (POO) - Introduction/">Introduction et&nbsp;Notions de base</a></td>
 </tr>
 <tr style="height: 18px;">
-<td style="width: 69.2755%; height: 18px;">Application</td>
+<td style="width: 69.2755%; height: 18px;"><a href="/H-2 Programmation orientée objet (POO) - Application/">Application</a></td>
 </tr>
 <tr style="height: 18px;">
 <td style="width: 69.2755%; height: 18px;">Utilisation</td>
