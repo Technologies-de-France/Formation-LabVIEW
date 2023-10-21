@@ -5,7 +5,7 @@
 <li>Notion de polymorphisme</li>
 </ul>
 <p dir="auto"></p>
-<p>&nbsp;<a href="https://www.youtube.com/watch?v=CVvqd3QJ-3g&amp;list=PLtioRYPUn23rmTQmI3XhCEMH0Tcn9y50z&amp;index=13&amp;ab_channel=TechnologiesdeFrance%28TDF%29"><img src="4.jpg" width="640" height="362" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></a></p>
+<p>&nbsp;<a href="https://youtu.be/U2lEx78yICY"><img src="4.jpg" width="640" height="362" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></a></p>
 <p></p>
 <p></p>
 <table border="0" style="width: 100%; border-collapse: collapse; border-style: none; height: 18px;">
