@@ -3,7 +3,8 @@
 <li>Notion de Methodes</li>
 <li>Notion d'attributs</li>
 </ul>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/evnlSVzSXU4?si=RDj7ppKdsV9HPaIU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<p dir="auto"></p>
+<p>&nbsp;<a href="https://www.youtube.com/watch?v=CVvqd3QJ-3g&amp;list=PLtioRYPUn23rmTQmI3XhCEMH0Tcn9y50z&amp;index=13&amp;ab_channel=TechnologiesdeFrance%28TDF%29"><img src="3.jpg" width="640" height="362" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></a></p>
 <p></p>
 <p></p>
 <table border="0" style="width: 100%; border-collapse: collapse; border-style: none; height: 18px;">
