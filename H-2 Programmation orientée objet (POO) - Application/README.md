@@ -1,4 +1,4 @@
-<h2 dir="auto" id="user-content-h_174031069121655196260265"><strong><span>Programmation orient&eacute;e objet (POO) - Introduction</span> </strong><strong>(Partie 1/3)</strong></h2>
+<h2 dir="auto" id="user-content-h_174031069121655196260265"><strong><span>Programmation orient&eacute;e objet (POO) - Application</span> </strong><strong>(Partie 2/3)</strong></h2>
 <ul dir="auto">
 <li>Notion d'h&eacute;ritage</li>
 <li>Notion d'access aux m&eacute;thodes</li>
