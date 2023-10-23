@@ -112,7 +112,7 @@
 <td style="width: 69.2755%; height: 18px;"><a href="/H-2 Programmation orientée objet (POO) - Application/">Application</a></td>
 </tr>
 <tr style="height: 18px;">
-<td style="width: 69.2755%; height: 18px;">Utilisation</td>
+<td style="width: 69.2755%; height: 18px;"><a href="/H-2 Programmation orientée objet (POO) - Utilisation/">Utilisation</a></td>
 </tr>
 <tr style="height: 18px;">
 <td style="width: 69.2755%; height: 18px;"><strong>LabVIEW connectivity</strong></td>
