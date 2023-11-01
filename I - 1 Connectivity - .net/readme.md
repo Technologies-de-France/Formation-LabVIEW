@@ -5,7 +5,7 @@
 <li>Notion de .net (Assembly, class, constructeur ...)</li>
 <li>Utilisation de ChatGPT pour la documentation des fonctions .net</li>
 </ul>
-<p dir="auto"></p>
+<p dir="auto">Lien vers la documentation .net microsoft <a href="https://learn.microsoft.com/fr-fr/dotnet/api/system.io.filesystemaclextensions.getaccesscontrol?view=net-7.0">ici</a></p>
 <p>&nbsp;<a href="https://youtu.be/IZw5nMTvjSw?si=Tzwr8gjhOJEM8jZv"><img src="1.png" width="640" height="362" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></a></p>
 <p></p>
 <p></p>
