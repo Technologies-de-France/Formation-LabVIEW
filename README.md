@@ -100,28 +100,28 @@
 </table>
 <p></p>
 <p dir="auto"><strong>Saison 2 - 2023</strong></p>
-<table border="0" style="height: 468px; width: 49.1655%; border-collapse: collapse;">
+<table border="0" style="height: 298px; width: 49.1655%; border-collapse: collapse;">
 <tbody>
 <tr style="height: 18px;">
 <td style="width: 69.2755%; height: 18px;"><strong>Programmation orient&eacute;e objet (POO)</strong></td>
 </tr>
 <tr style="height: 18px;">
-<td style="width: 69.2755%; height: 18px;"><a href="/H-1 Programmation orientée objet (POO) - Introduction/">Introduction et&nbsp;Notions de base</a></td>
+<td style="width: 69.2755%; height: 18px;"><a href="/H-1 Programmation orient&eacute;e objet (POO) - Introduction/">Introduction et&nbsp;Notions de base</a></td>
 </tr>
 <tr style="height: 18px;">
-<td style="width: 69.2755%; height: 18px;"><a href="/H-2 Programmation orientée objet (POO) - Application/">Application</a></td>
+<td style="width: 69.2755%; height: 18px;"><a href="/H-2 Programmation orient&eacute;e objet (POO) - Application/">Application</a></td>
 </tr>
 <tr style="height: 18px;">
-<td style="width: 69.2755%; height: 18px;"><a href="/H-3 Programmation orientée objet (POO) - Utilisation/">Utilisation</a></td>
+<td style="width: 69.2755%; height: 18px;"><a href="/H-3 Programmation orient&eacute;e objet (POO) - Utilisation/">Utilisation</a></td>
 </tr>
 <tr style="height: 18px;">
 <td style="width: 69.2755%; height: 18px;"><strong>LabVIEW connectivity</strong></td>
 </tr>
-<tr style="height: 18px;">
-<td style="width: 69.2755%; height: 18px;">Le C et les&nbsp;<span>Dynamic Link Library (DLL)</span></td>
+<tr style="height: 10px;">
+<td style="width: 69.2755%; height: 10px;"><a href="/I%20- 1 Connectivity - .net/">Le .net</a></td>
 </tr>
 <tr style="height: 18px;">
-<td style="width: 69.2755%; height: 18px;">Le .net</td>
+<td style="width: 69.2755%; height: 18px;">Le C et les&nbsp;<span>Dynamic Link Library (DLL)</span></td>
 </tr>
 <tr style="height: 18px;">
 <td style="width: 69.2755%; height: 18px;">Le Python</td>
@@ -153,7 +153,6 @@
 </tbody>
 </table>
 <p></p>
-
 <p><strong>Liste des th&egrave;mes encore &agrave; aborder dans le futur ...&nbsp;</strong></p>
 <p><strong></strong></p>
 <table width="188" style="width: 479px; height: 108px;">
