@@ -6,7 +6,7 @@
 <li>Utilisation de ChatGPT pour la documentation des fonctions .net</li>
 </ul>
 <p dir="auto"></p>
-<p>&nbsp;<a href="https://youtu.be/9FgIzUOE5qE"><img src="1.png" width="640" height="362" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></a></p>
+<p>&nbsp;<a href="https://youtu.be/IZw5nMTvjSw?si=Tzwr8gjhOJEM8jZv"><img src="1.png" width="640" height="362" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></a></p>
 <p></p>
 <p></p>
 <table border="0" style="width: 100%; border-collapse: collapse; border-style: none; height: 18px;">
