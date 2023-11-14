@@ -12,8 +12,8 @@
 <table border="0" style="width: 100%; border-collapse: collapse; border-style: none; height: 18px;">
 <tbody>
 <tr style="height: 18px;">
-<td style="width: 50%; height: 18px;"><a href="https://github.com/Technologies-de-France/Formation-LabVIEW/tree/main/H-2%20Programmation%20orient%C3%A9e%20objet%20(POO)%20-%20Application">Pr&eacute;c&eacute;dent (Programmation orient&eacute;e objet (POO) - Application)</a><br /><a href="/C-1 Machine d'&eacute;tat, pr&eacute;sentation/"></a></td>
-<td style="width: 50%; text-align: right; height: 18px;"><a href="/C-3 Machine d'&eacute;tat, le template NI/"></a><a href="https://github.com/Technologies-de-France/Formation-LabVIEW/tree/main/I%20-%201%20Connectivity%20-%20.net">Suivant (<span>Connectivity - .net</span>)</a></td>
+<td style="width: 50%; height: 18px;"><a href="https://github.com/Technologies-de-France/Formation-LabVIEW/tree/main/H-2%20Programmation%20orient%C3%A9e%20objet%20(POO)%20-%20Application">Pr&eacute;c&eacute;dent (Programmation orient&eacute;e objet (POO) - Application)</a></td>
+<td style="width: 50%; text-align: right; height: 18px;"><a href="/C-3 Machine d'&eacute;tat, le template NI/"></a><a href="https://github.com/Technologies-de-France/Formation-LabVIEW/tree/main/k%20-%201%20-%20Actor%20framework%20-%20introduction">Suivant (<span>Actor Framework</span>)</a></td>
 </tr>
 </tbody>
 </table>
