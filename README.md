@@ -99,8 +99,10 @@
 </tbody>
 </table>
 <p></p>
+
+
 <p dir="auto"><strong>Saison 2 - 2023</strong></p>
-<table border="0" style="height: 298px; width: 49.1655%; border-collapse: collapse;">
+<table border="0" style="height: 298px; width: 69.2755%; border-collapse: collapse;">
 <tbody>
 <tr style="height: 18px;">
 <td style="width: 69.2755%; height: 18px;"><strong>Programmation orient&eacute;e objet (POO)</strong></td>
@@ -113,6 +115,21 @@
 </tr>
 <tr style="height: 18px;">
 <td style="width: 69.2755%; height: 18px;"><a href="/H-3 Programmation orient&eacute;e objet (POO) - Utilisation/">Utilisation</a></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 69.2755%; height: 18px;"><b>Actor Framework (AF)</b></td>
+</tr>
+<tr>
+<td style="width: 69.2755%;"><a href="/k - 1 - Actor framework - introduction/">Introduction et&nbsp;Notions de base</a></td>
+</tr>
+<tr>
+<td style="width: 69.2755%;"><a href="/k%20- 2 - Actor framework - actor/">L'actor</a></td>
+</tr>
+<tr>
+<td style="width: 69.2755%;">Les messages</td>
+</tr>
+<tr>
+<td style="width: 69.2755%;">Architecture</td>
 </tr>
 <tr style="height: 18px;">
 <td style="width: 69.2755%; height: 18px;"><strong>LabVIEW connectivity</strong></td>
@@ -152,6 +169,9 @@
 </tr>
 </tbody>
 </table>
+
+
+
 <p></p>
 <p><strong>Liste des th&egrave;mes encore &agrave; aborder dans le futur ...&nbsp;</strong></p>
 <p><strong></strong></p>
@@ -164,16 +184,7 @@
 <td style="width: 469px; height: 18px;">Le JavaScript</td>
 </tr>
 <tr style="height: 18px;">
-<td style="width: 469px; height: 18px;">L'actor Framework</td>
-</tr>
-<tr style="height: 18px;">
-<td style="width: 469px; height: 18px;">L'architecture en pipe&nbsp;</td>
-</tr>
-<tr style="height: 18px;">
 <td style="width: 469px; height: 18px;">le scripting</td>
-</tr>
-<tr style="height: 18px;">
-<td style="width: 469px; height: 18px;">Pointeur et gestion de la m&eacute;moire bas niveau sous LabVIEW</td>
 </tr>
 </tbody>
 </table>
