@@ -1,4 +1,4 @@
-<h2 dir="auto" id="user-content-h_174031069121655196260265"><strong><span>Actor Framework - Actor</span> </strong><strong>(Partie 2/4)</strong></h2>
+<h2 dir="auto" id="user-content-h_174031069121655196260265"><strong><span>Actor Framework - Actor</span> </strong><strong>(Partie 2/6)</strong></h2>
 <p><span>Chapitre sur l'architecture Actor Framework sur LabVIEW&nbsp;</span></p>
 <ul>
 <li><span>Forme Canonique (Actor Core, Pre Launch Init, Receive Message, Stop Core)</span></li>
@@ -11,7 +11,7 @@
 <tbody>
 <tr style="height: 18px;">
 <td style="width: 50%; height: 18px;"><a href="https://github.com/Technologies-de-France/Formation-LabVIEW/tree/main/k%20-%201%20-%20Actor%20framework%20-%20introduction">Pr&eacute;c&eacute;dent (<span>Actor Framework (AF)</span>&nbsp;- Introduction)</a></td>
-<td style="width: 50%; text-align: right; height: 18px;">Suivant (<span>Actor Framework (AF) - Architecture</span>)</td>
+<td style="width: 50%; text-align: right; height: 18px;"><a href="https://github.com/Technologies-de-France/Formation-LabVIEW/tree/main/k%20-%203%20-%20Actor%20Framework%20-%20Architecture">Suivant (<span>Actor Framework (AF) - Architecture</span>)</a></td>
 </tr>
 </tbody>
 </table>
