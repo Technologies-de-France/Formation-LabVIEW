@@ -12,7 +12,7 @@
 <tbody>
 <tr style="height: 18px;">
 <td style="width: 50%; height: 18px;"><a href="https://github.com/Technologies-de-France/Formation-LabVIEW/blob/main/k%20-%202%20-%20Actor%20framework%20-%20actor/Readme.md">Pr&eacute;c&eacute;dent (<span>Actor Framework (AF)</span>&nbsp;- Actor)</a></td>
-<td style="width: 50%; text-align: right; height: 18px;"><a href="https://github.com/Technologies-de-France/Formation-LabVIEW/tree/main/k%20-%204%20-%20Actor%20Framework%20-%20Architecture%20-%20part%202">Suivant (<span>Actor Framework (AF) - Architecture2</span>)</a></td>
+<td style="width: 50%; text-align: right; height: 18px;"><a href="https://github.com/Technologies-de-France/Formation-LabVIEW/tree/main/k%20-%204%20-%20Actor%20Framework%20-%20Architecture%20-%20part%202">Suivant (<span>Actor Framework (AF) - Architecture part 2</span>)</a></td>
 </tr>
 </tbody>
 </table>
