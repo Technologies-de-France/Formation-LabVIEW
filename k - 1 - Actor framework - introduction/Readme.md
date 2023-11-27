@@ -1,4 +1,4 @@
-<h2 dir="auto" id="user-content-h_174031069121655196260265"><strong><span>Actor Framework - Introduction</span> </strong><strong>(Partie 1/4)</strong></h2>
+<h2 dir="auto" id="user-content-h_174031069121655196260265"><strong><span>Actor Framework - Introduction</span> </strong><strong>(Partie 1/6)</strong></h2>
 <p><span>Chapitre sur l'architecture Actor Framework sur LabVIEW&nbsp;</span></p>
 <ul dir="auto">
 <li>Introduction</li>
