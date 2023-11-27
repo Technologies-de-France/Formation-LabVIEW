@@ -99,8 +99,6 @@
 </tbody>
 </table>
 <p></p>
-
-
 <p dir="auto"><strong>Saison 2 - 2023</strong></p>
 <table border="0" style="height: 298px; width: 69.2755%; border-collapse: collapse;">
 <tbody>
@@ -126,10 +124,16 @@
 <td style="width: 69.2755%;"><a href="/k%20- 2 - Actor framework - actor/">L'actor</a></td>
 </tr>
 <tr>
-<td style="width: 69.2755%;">Les messages</td>
+<td style="width: 69.2755%;"><a href="/k%20- 3 - Actor Framework - Architecture/">Architecture 1</a></td>
 </tr>
 <tr>
-<td style="width: 69.2755%;">Architecture</td>
+<td style="width: 69.2755%;"><a href="/k%20- 4 - Actor Framework - Architecture - part 2/">Architecture 2</a></td>
+</tr>
+<tr>
+<td style="width: 69.2755%;"><a href="/k%20- 5 - Actor Framework - nested/">Nested</a></td>
+</tr>
+<tr>
+<td style="width: 69.2755%;"><a href="/k%20- 6 - Actor Framework - message/">Message</a></td>
 </tr>
 <tr style="height: 18px;">
 <td style="width: 69.2755%; height: 18px;"><strong>LabVIEW connectivity</strong></td>
@@ -140,6 +144,12 @@
 <tr style="height: 18px;">
 <td style="width: 69.2755%; height: 18px;">Le C et les&nbsp;<span>Dynamic Link Library (DLL)</span></td>
 </tr>
+</tbody>
+</table>
+
+
+
+
 <tr style="height: 18px;">
 <td style="width: 69.2755%; height: 18px;">Le Python</td>
 </tr>
