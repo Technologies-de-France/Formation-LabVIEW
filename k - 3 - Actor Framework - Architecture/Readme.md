@@ -5,7 +5,7 @@
 <li><span>Gestion des erreurs</span></li>
 <li><span>Explication de l'architecture actor framework avec decryptage du fonctionnement de l'Actor Core</span></li>
 </ul>
-<p>&nbsp;<a href="https://youtu.be/r5GDZ0qS8c4?si=oC5QuaPGpVsRuZHe"><img src="3_architecture.jpg" width="640" height="362" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></a></p>
+<p>&nbsp;<a href="https://youtu.be/llM6BZ8RXuc"><img src="3_architecture.jpg" width="640" height="362" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></a></p>
 <p></p>
 <p></p>
 <table border="0" style="width: 100%; border-collapse: collapse; border-style: none; height: 18px;">
