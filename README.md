@@ -99,7 +99,7 @@
 </tbody>
 </table>
 <p></p>
-<p dir="auto"><strong>Saison 2 - 2023</strong></p>
+<p dir="auto"><strong>Saison 2 </strong></p>
 <table border="0" style="height: 298px; width: 69.2755%; border-collapse: collapse;">
 <tbody>
 <tr style="height: 18px;">
