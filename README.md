@@ -156,7 +156,13 @@
 <td style="width: 69.2755%; height: 18px;">Les registres (Regedit)</td>
 </tr>
 <tr style="height: 18px;">
-<td style="width: 69.2755%; height: 18px;">Database</td>
+<td style="width: 69.2755%; height: 18px;"><strong>Database</strong></td>
+</tr>
+<tr>
+<td style="width: 69.2755%;">Introduction</td>
+</tr>
+<tr>
+<td style="width: 69.2755%;">SQL DB</td>
 </tr>
 <tr style="height: 18px;">
 <td style="width: 69.2755%; height: 18px;"><strong>Webserver</strong></td>
