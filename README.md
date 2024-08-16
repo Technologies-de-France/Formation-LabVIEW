@@ -147,7 +147,7 @@
 <table border="0" style="height: 213px; width: 69.2755%; border-collapse: collapse;">
 <tbody>
 <tr style="height: 18px;">
-<td style="width: 69.2755%; height: 18px;"><strong>Data Save</strong></td>
+<td style="width: 69.2755%; height: 18px;"><strong>DataSave</strong></td>
 </tr>
 <tr style="height: 18px;">
 <td style="width: 69.2755%; height: 18px;">Les fichiers</td>
