@@ -166,15 +166,15 @@
 </tr>
 <tr style="height: 18px;">
 <td style="width: 69.2755%; height: 18px;"><strong>Webserver</strong></td>
+</tr>  
+<tr style="height: 18px;">
+<td style="width: 69.2755%; height: 18px;"><a href="/I - 5 - Connectivity - Webservice - Introduction - Client">Introduction&nbsp;- Client</a></td>
 </tr>
 <tr style="height: 18px;">
-<td style="width: 69.2755%; height: 18px;">Introduction&nbsp;- Client</td>
-</tr>
-<tr style="height: 18px;">
-<td style="width: 69.2755%; height: 18px;">NI WebServer - Server</td>
+<td style="width: 69.2755%; height: 18px;"><a href="/I - 6 - Connectivity - Webservice - NI WebServer - Server">NI WebServer - Server</a></td>
 </tr>
 <tr style="height: 15px;">
-<td style="width: 69.2755%; height: 15px;">NI WebServer - D&eacute;ploiement</td>
+<td style="width: 69.2755%; height: 15px;"><a href="/I - 7 - Connectivity - Webservice - NI WebServer - Deploiement">NI WebServer - D&eacute;ploiement</a></td>
 </tr>
 <tr style="height: 18px;">
 <td style="width: 69.2755%; height: 18px;"><strong>LabVIEW UI</strong></td>
