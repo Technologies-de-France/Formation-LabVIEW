@@ -185,9 +185,6 @@
 <tr style="height: 18px;">
 <td style="width: 69.2755%; height: 18px;">Boutons en vectoriel</td>
 </tr>
-<tr style="height: 18px;">
-<td style="width: 69.2755%; height: 18px;">Xcontrol</td>
-</tr>
 </tbody>
 </table>
 
