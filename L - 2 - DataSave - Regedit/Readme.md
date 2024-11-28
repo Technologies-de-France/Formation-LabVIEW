@@ -1,6 +1,7 @@
-<h2 dir="auto" id="h_204237571151655104512005"><span>Gestion des fichiers sous LabVIEW</span></h2>
-<p dir="auto"><span>Dans cette vid&eacute;o de la playlist LabVIEW DataSave, nous explorons en d&eacute;tail la gestion des fichiers sous LabVIEW, un sujet essentiel pour la sauvegarde, le stockage et l'organisation des donn&eacute;es dans vos projets. Que vous soyez d&eacute;butant ou utilisateur avanc&eacute;, cette vid&eacute;o vous guide pas &agrave; pas pour ma&icirc;triser les fondamentaux et d&eacute;couvrir les nombreuses possibilit&eacute;s offertes par LabVIEW pour travailler avec des fichiers.</span></p>
-<p dir="auto"><a href="https://youtu.be/9kIG-NOfbSQ"><img src="https://raw.githubusercontent.com/Technologies-de-France/Formation-LabVIEW/refs/heads/main/L%20-%201%20-%20DataSave%20-%20Les%20Fichiers/Les%20fichiers.png" alt="" width="620" height="349" /></a></p>
+<h2 dir="auto" id="h_204237571151655104512005">Exploration avanc&eacute;e du Registre Windows avec LabVIEW</h2>
+<p dir="auto">Dans cette vid&eacute;o de la playlist LabVIEW System Integration, nous plongeons au c&oelig;ur du registre Windows (regedit) et d&eacute;couvrons comment interagir avec celui-ci directement depuis LabVIEW. Vous apprendrez &agrave; lire, &eacute;crire et modifier des cl&eacute;s de registre pour g&eacute;rer et personnaliser vos syst&egrave;mes Windows dans vos projets LabVIEW. Ce tutoriel s'adresse aussi bien aux d&eacute;butants curieux qu'aux utilisateurs exp&eacute;riment&eacute;s souhaitant optimiser l'int&eacute;gration de leurs applications dans l'&eacute;cosyst&egrave;me Windows. Suivez pas &agrave; pas les bonnes pratiques pour manipuler le registre en toute s&eacute;curit&eacute; et exploiter pleinement ses possibilit&eacute;s avec LabVIEW.</p>
+<p dir="auto"><br /><span></span></p>
+<p dir="auto"><a href="https://youtu.be/9kIG-NOfbSQ"><img src="https://github.com/Technologies-de-France/Formation-LabVIEW/blob/main/L%20-%202%20-%20DataSave%20-%20Regedit/Les%20registres%20(Regedit).png?raw=true" alt="" width="620" height="349" /></a></p>
 <p>&nbsp;</p>
 <p></p>
 <p></p>
