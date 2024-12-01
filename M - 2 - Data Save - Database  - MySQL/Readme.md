@@ -11,7 +11,7 @@
 </ul>
 <p>Bas&eacute; sur un projet structur&eacute; (<em>Database.lvproj</em>) et des configurations optimis&eacute;es, ce chapitre s&rsquo;adresse aux d&eacute;veloppeurs souhaitant exploiter pleinement le potentiel des bases de donn&eacute;es MySQL dans l&rsquo;environnement LabVIEW. Apprenez &agrave; automatiser la gestion de vos donn&eacute;es et &agrave; les rendre accessibles au c&oelig;ur de vos syst&egrave;mes.</p>
 <p dir="auto"><br /><span></span></p>
-<p dir="auto"><a href="https://youtu.be/9kIG-NOfbSQ"><img src="https://github.com/Technologies-de-France/Formation-LabVIEW/blob/main/M%20-%202%20-%20Data%20Save%20-%20Database%20%20-%20MySQL/SQL%20DB.png?raw=true" alt="" width="620" height="349" /></a></p>
+<p dir="auto"><a href="https://youtu.be/KuXo-AE95iA"><img src="https://github.com/Technologies-de-France/Formation-LabVIEW/blob/main/M%20-%202%20-%20Data%20Save%20-%20Database%20%20-%20MySQL/SQL%20DB.png?raw=true" alt="" width="620" height="349" /></a></p>
 <p>&nbsp;</p>
 <p></p>
 <p></p>
