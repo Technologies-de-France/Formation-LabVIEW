@@ -9,7 +9,7 @@
 </ul>
 <p data-pm-slice="1 1 []"><span>Ce chapitre, bas&eacute; sur une collection d'exemples pratiques et des outils personnalis&eacute;s, s'adresse autant aux d&eacute;butants qu'aux d&eacute;veloppeurs interm&eacute;diaires souhaitant automatiser leurs processus d'interaction avec des webservices. D&eacute;couvrez comment transformer vos applications LabVIEW en outils connect&eacute;s et puissants pour exploiter pleinement les API RESTful modernes.</span></p>
 <p dir="auto"><br /><span></span></p>
-<p dir="auto"><a href="https://youtu.be/-cC7ZcDw86EQ"><img src="https://github.com/Technologies-de-France/Formation-LabVIEW/blob/main/I%20-%205%20-%20Connectivity%20-%20Webservice%20-%20Introduction%20-%20Client/Introduction%20-%20Client.png?raw=true" alt="" width="620" height="349" /></a></p>
+<p dir="auto"><a href="https://youtu.be/_ZfH2eEYb8w"><img src="https://github.com/Technologies-de-France/Formation-LabVIEW/blob/main/I%20-%205%20-%20Connectivity%20-%20Webservice%20-%20Introduction%20-%20Client/Introduction%20-%20Client.png?raw=true" alt="" width="620" height="349" /></a></p>
 <p>&nbsp;</p>
 <p></p>
 <p></p>
