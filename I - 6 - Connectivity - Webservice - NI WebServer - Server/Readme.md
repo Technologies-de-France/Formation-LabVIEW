@@ -9,7 +9,7 @@
 </ul>
 <p>Ce chapitre, bas&eacute; sur des exemples concrets et des outils adapt&eacute;s, est con&ccedil;u pour les d&eacute;veloppeurs souhaitant transformer leurs syst&egrave;mes LabVIEW en plateformes robustes et connect&eacute;es, adapt&eacute;es aux besoins modernes.</p>
 <p dir="auto"><br /><span></span></p>
-<p dir="auto"><a href="https://youtu.be/_ZfH2eEYb8w"><img src="https://github.com/Technologies-de-France/Formation-LabVIEW/blob/main/I%20-%206%20-%20Connectivity%20-%20Webservice%20-%20NI%20WebServer%20-%20Server/NI%20WebServer%20-%20Server.png?raw=true?raw=true" alt="" width="620" height="349" /></a></p>
+<p dir="auto"><a href="https://youtu.be/6vu2dmB-ZDY"><img src="https://github.com/Technologies-de-France/Formation-LabVIEW/blob/main/I%20-%206%20-%20Connectivity%20-%20Webservice%20-%20NI%20WebServer%20-%20Server/NI%20WebServer%20-%20Server.png?raw=true?raw=true" alt="" width="620" height="349" /></a></p>
 <p>&nbsp;</p>
 <p></p>
 <p></p>
