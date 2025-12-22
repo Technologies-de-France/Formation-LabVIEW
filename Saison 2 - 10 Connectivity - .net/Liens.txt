@@ -1,0 +1,3 @@
+Lien doc microsoft .net
+
+https://learn.microsoft.com/fr-fr/dotnet/api/system.collections.arraylist.toarray?view=netframework-4.0#system-collections-arraylist-toarray
