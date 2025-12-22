@@ -127,16 +127,57 @@ bases de données et Web Services.
 
 <!-- ============================================================ SAISON 4 ============================================================ -->
 
-<p><strong>Saison 4 — Hardware LabVIEW (en cours)</strong></p>
+<p><strong>Saison 4 — Hardware & LabVIEW (en cours de production)</strong></p>
 
 <table border="0" style="width:50%; border-collapse:collapse;">
 <tbody>
-<tr><td>Présentation des catégories de matériels</td></tr>
-<tr><td>USB DAQ</td></tr>
-<tr><td>CompactDAQ / iDAQ</td></tr>
-<tr><td>PXI / PXIe</td></tr>
-<tr><td>PC industriels</td></tr>
-<tr><td>Temps réel & FPGA</td></tr>
+
+<tr>
+<td><strong>Chapitre 1 — Panorama général du hardware LabVIEW</strong></td>
+</tr>
+<tr><td>Introduction : catégories de matériels, usages typiques et critères de choix</td></tr>
+<tr><td>Panorama des marques : NI, Advantech, ADLINK, Digilent…</td></tr>
+
+<tr>
+<td><strong>Chapitre 2 — USB DAQ</strong></td>
+</tr>
+<tr><td>USB-DAQ NI — acquisition simple et rapide</td></tr>
+<tr><td>USB-58 Advantech — alternative accessible aux DAQ USB</td></tr>
+
+<tr>
+<td><strong>Chapitre 3 — CompactDAQ / iDAQ</strong></td>
+</tr>
+<tr><td>CompactDAQ NI — acquisition modulaire industrielle</td></tr>
+<tr><td>iDAQ Advantech — mesure distribuée et évolutive</td></tr>
+
+<tr>
+<td><strong>Chapitre 4 — PXI / PXIe</strong></td>
+</tr>
+<tr><td>PXI NI — bancs de test haute performance et synchronisation</td></tr>
+<tr><td>PXI ADLINK — alternative robuste et compatible</td></tr>
+
+<tr>
+<td><strong>Chapitre 5 — PC industriels</strong></td>
+</tr>
+<tr><td>PC industriels NI — supervision, vision et contrôle avancé</td></tr>
+<tr><td>PC industriels ADLINK (MXC) — IA embarquée et traitements GPU</td></tr>
+<tr><td>PC industriels Advantech (ARK) — edge computing et monitoring</td></tr>
+
+<tr>
+<td><strong>Chapitre 6 — Matériel académique</strong></td>
+</tr>
+<tr><td>myDAQ — apprentissage de la mesure et de l’acquisition</td></tr>
+<tr><td>myRIO — plateforme éducative RT + FPGA</td></tr>
+<tr><td>Analog Discovery Studio (Digilent) — mini laboratoire pédagogique</td></tr>
+<tr><td>Analog Discovery 3 (Digilent) — prototypage et validation électronique</td></tr>
+
+<tr>
+<td><strong>Chapitre 7 — Temps réel & FPGA (SoC)</strong></td>
+</tr>
+<tr><td>CompactRIO — contrôle embarqué durci et déterministe</td></tr>
+<tr><td>sbRIO — carte SoC OEM RT + FPGA</td></tr>
+<tr><td>Raspberry Pi — embarqué léger avec LINX Toolkit</td></tr>
+
 </tbody>
 </table>
 
