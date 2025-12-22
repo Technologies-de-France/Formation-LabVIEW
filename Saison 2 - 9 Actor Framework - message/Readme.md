@@ -3,4 +3,5 @@
 <ul>
 <li><span>On va parler des messages entre acteurs</span></li>
 </ul>
-<p>&nbsp;<a href="https://youtu.be/cHz9c2Ilv5c"><img src="6_message.jpg" width="640" height="362" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></a></p>
+<p>&nbsp;<a href="https://www.youtube.com/watch?v=cHz9c2Ilv5c&list=PLtioRYPUn23oAHVCVmHUZywTxnL_8Xo9q&index=6"><img src="6_message.jpg" width="640" height="362" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></a></p>
+
