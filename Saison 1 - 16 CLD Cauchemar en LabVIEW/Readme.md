@@ -1,4 +1,4 @@
-<h2 dir="auto" id="user-content-h_174031069121655196260265"><strong>&nbsp;Certified LabVIEW Developer</strong><strong>&nbsp;</strong><strong>- Cauchemar en LabVIEW</strong><strong>(Partie 1/3)</strong></h2>
+<h2 dir="auto" id="user-content-h_174031069121655196260265"><strong>&nbsp;Certified LabVIEW Developer</strong><strong>&nbsp;</strong><strong>- Cauchemar en LabVIEW</strong><strong> (Partie 2/3)</strong></h2>
 <ul dir="auto">
 <li>Quelques mauvaises pratiques &agrave; bannir</li>
 <li>D&eacute;couverte de l'un des pires code LabVIEW depuis Jesus Christ</li>
@@ -14,3 +14,4 @@
 </tbody>
 </table>
 <p dir="auto" id="user-content-h_4774480761351655104528452" style="text-align: left;"></p>
+
