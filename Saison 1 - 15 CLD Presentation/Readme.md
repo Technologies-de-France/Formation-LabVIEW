@@ -1,54 +1,62 @@
 ## Certified LabVIEW Developer – Présentation (Partie 1/3)
 
+Cette section introduit la certification **Certified LabVIEW Developer (CLD)** et donne les clés pour bien comprendre le déroulement de l’examen ainsi que les bonnes pratiques attendues.
+
+### Contenu
 - Présentation de la certification CLD  
 - Modalités de l'examen  
-- Gestion de l'examen  
-- Récapitulatif des règles de bonnes pratiques  
-- Conseils pour réussir cet examen  
-
-[![CLD presentation](CLD%20presentation.png)](https://www.youtube.com/watch?v=LF9DW1vDyN8&list=PLtioRYPUn23rmTQmI3XhCEMH0Tcn9y50z&index=15&ab_channel=TechnologiesdeFrance%28TDF%29)
+- Gestion du temps et de l’épreuve  
+- Règles de bonnes pratiques LabVIEW  
+- Conseils pour réussir l’examen  
 
 ---
 
-N'oubliez pas de vous entraîner sur les exercices et de regarder les corrections que nous vous proposons :  
-👉 [Accéder aux exercices](./Exercices/)
+<a href="https://www.youtube.com/watch?v=LF9DW1vDyN8&list=PLtioRYPUn23rmTQmI3XhCEMH0Tcn9y50z&index=15&ab_channel=TechnologiesdeFrance%28TDF%29">
+  <img src="CLD%20presentation.png" width="420" style="display:block;margin:auto;">
+</a>
 
 ---
 
-### Exercices CLD
+### Exercices d’entraînement
 
-| Exercice | Thème | Résumé |
-|--------:|-------|--------|
-| 1 | Time | Using Time Express VI for a basic timer |
-| 2 | Time, Pause, FGV | Using Time Express VI with FGV to make a timer. Bonus solution with Pause option |
-| 3 | Time, Pause, FGV | Using Tick to code a complete timer with FGV |
-| 4 | Event structure | Using event structure to increment and decrement an iterator |
-| 5 | File Read/Write | Open read / write ini file |
-| 6 | File Read/Write | Open read / write csv file |
-| 7 | Time conversion | Convert timestamp to different format |
-| 8 | Cluster and CSV | Open CSV file and convert data into cluster |
-| 9 | Time, State machine | Making a timer with state machine architecture |
-| 10 | Time, State machine, CSV | Timer with state machine and CSV read |
-| 11 | Time, QMH, CSV | Timer with Queue Message Handler architecture |
-| 12 | Time, FGV, State machine | Making a sequencer with FGV timer |
-| 13 | Time, FGV, State machine | Flow rate machine using FGV timer |
-| 14 | Time, FGV, State machine, CSV | Timer with FGV and state machine |
-| 15 | CSV, Cluster, Array | Read / Write CSV file |
-| 16 | State machine | Peanut machine – excellent CLD training |
-| 17 | State machine | PAD management – CLD training |
+Les exercices sont essentiels pour se préparer efficacement au CLD.  
+Ils couvrent les architectures, les patterns et les mécanismes fondamentaux attendus à l’examen.
 
----
+👉 **[Accéder aux exercices](./Exercices/)**
 
-### Ressources
-
-- 📄 [Guide officiel de préparation CLD (PDF)](./cld_exam_prep_guide_english.pdf)
-- 🧩 [Sample exams (ZIP)](./Sample%20exams/cld_sample_exams_english.zip)
-- ✅ [Solutions exercices TDF (ZIP)](./Exercices/cld_Exercices_TDF_solution.zip)
-- 🚀 [Success package (ZIP)](./Exercices/cld_success_package.zip)
+| # | Thème | Description |
+|--:|-------|-------------|
+| 1 | Time | Timer simple avec Time Express VI |
+| 2 | Time, Pause, FGV | Timer avec FGV et gestion de pause |
+| 3 | Time, FGV | Timer complet basé sur Tick Count |
+| 4 | Event structure | Incrément / décrément via événements |
+| 5 | File I/O | Lecture / écriture fichier INI |
+| 6 | File I/O | Lecture / écriture fichier CSV |
+| 7 | Time | Conversion de timestamp |
+| 8 | CSV, Cluster | CSV vers cluster |
+| 9 | State machine | Timer avec machine d’états |
+| 10 | State machine, CSV | Timer + lecture CSV |
+| 11 | QMH, CSV | Timer avec Queue Message Handler |
+| 12 | FGV, State machine | Séquenceur avec timer FGV |
+| 13 | FGV, State machine | Machine de débit |
+| 14 | FGV, State machine, CSV | Timer avancé |
+| 15 | CSV, Array, Cluster | Lecture / écriture CSV |
+| 16 | State machine | Peanut Machine – préparation CLD |
+| 17 | State machine | Gestion PAD – préparation CLD |
 
 ---
 
-### Lien officiel NI
+### Ressources disponibles
 
+- 📄 **[Guide officiel de préparation CLD (PDF)](./cld_exam_prep_guide_english.pdf)**
+- 🧩 **[Sujets d’examen – exemples (ZIP)](./Sample%20exams/cld_sample_exams_english.zip)**
+- ✅ **[Corrections des exercices TDF (ZIP)](./Exercices/cld_Exercices_TDF_solution.zip)**
+- 🚀 **[CLD Success Package (ZIP)](./Exercices/cld_success_package.zip)**
+
+---
+
+### Certification officielle NI
+
+Lien officiel National Instruments :  
 https://education.ni.com/badges/resources/1255/certified-labview-developer-cld
 
