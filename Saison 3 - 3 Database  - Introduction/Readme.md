@@ -1,15 +1,34 @@
-<h2 dir="auto" id="h_204237571151655104512005">Gestion et Manipulation des Bases de Donn&eacute;es Access avec LabVIEW</h2>
-<p>Dans ce chapitre pratique, nous vous guidons dans la cr&eacute;ation, la manipulation et l'interaction avec des bases de donn&eacute;es Access en utilisant LabVIEW. &Agrave; travers des exemples concrets, vous apprendrez &agrave; :</p>
+<h2>Gestion et Manipulation des Bases de Données Access avec LabVIEW</h2>
+
+<p>
+Dans ce chapitre pratique, nous vous guidons dans la création, la manipulation et l’interaction
+avec des bases de données Access en utilisant LabVIEW. À travers des exemples concrets,
+vous apprendrez à :
+</p>
+
 <ul>
-<li><strong>Cr&eacute;er une base de donn&eacute;es</strong> avec des outils adapt&eacute;s (DB_Create.vi).</li>
-<li><strong>Ins&eacute;rer des donn&eacute;es</strong> de mani&egrave;re contr&ocirc;l&eacute;e (DB_Insert.vi).</li>
-<li><strong>S&eacute;lectionner et interroger vos donn&eacute;es</strong> pour en extraire des informations utiles (DB_Select.vi).</li>
-<li><strong>Mettre &agrave; jour vos donn&eacute;es existantes</strong> avec des commandes pr&eacute;cises (DB_Update.vi).</li>
-<li><strong>Ex&eacute;cuter des requ&ecirc;tes SQL personnalis&eacute;es</strong> pour des besoins sp&eacute;cifiques (DB_Execute_Query.vi).</li>
+  <li><strong>Créer une base de données</strong> avec des outils adaptés (DB_Create.vi).</li>
+  <li><strong>Insérer des données</strong> de manière contrôlée (DB_Insert.vi).</li>
+  <li><strong>Sélectionner et interroger vos données</strong> pour en extraire des informations utiles (DB_Select.vi).</li>
+  <li><strong>Mettre à jour vos données existantes</strong> avec des commandes précises (DB_Update.vi).</li>
+  <li><strong>Exécuter des requêtes SQL personnalisées</strong> pour des besoins spécifiques (DB_Execute_Query.vi).</li>
 </ul>
-<p>Ce chapitre, bas&eacute; sur un fichier de base Access pr&eacute;-configur&eacute; (<em>Access_template.accdb</em>), s&rsquo;adresse autant aux d&eacute;butants qu&rsquo;aux d&eacute;veloppeurs interm&eacute;diaires souhaitant automatiser leurs processus de gestion de donn&eacute;es avec LabVIEW. D&eacute;couvrez comment transformer vos bases de donn&eacute;es en outils puissants et accessibles directement dans votre environnement de d&eacute;veloppement pr&eacute;f&eacute;r&eacute;.</p>
-<p dir="auto"><br /><span></span></p>
-<p dir="auto"><a href="https://youtu.be/-cC7ZcDw86EQ"><img src="https://github.com/Technologies-de-France/Formation-LabVIEW/blob/main/M%20-%201%20-%20Data%20Save%20-%20Database%20%20-%20Introduction/Introduction.png?raw=true" alt="" width="620" height="349" /></a></p>
-<p>&nbsp;</p>
-<p></p>
-<p></p>
+
+<p>
+Ce chapitre, basé sur un fichier de base Access pré-configuré
+(<em>Access_template.accdb</em>), s’adresse aussi bien aux débutants qu’aux développeurs
+intermédiaires souhaitant automatiser leurs processus de gestion de données avec LabVIEW.
+Découvrez comment transformer vos bases de données en outils puissants et accessibles
+directement dans votre environnement de développement.
+</p>
+
+<p style="text-align:center;">
+  <a href="https://www.youtube.com/watch?v=-cC7ZcDw86E&list=PLtioRYPUn23pl2h0JsDauKX1Z6vwvy6oc&index=2">
+    <img
+      src="./Introduction.png"
+      width="620"
+      height="349"
+      alt="Gestion et manipulation des bases de données Access avec LabVIEW"
+    />
+  </a>
+</p>
