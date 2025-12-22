@@ -4,4 +4,5 @@
 <li><span>Forme Canonique (Actor Core, Pre Launch Init, Receive Message, Stop Core)</span></li>
 <li><span>Machine d'&eacute;tats</span></li>
 </ul>
-<p>&nbsp;<a href="https://youtu.be/r5GDZ0qS8c4?si=oC5QuaPGpVsRuZHe"><img src="2_actor.jpg" width="640" height="362" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></a></p>
+<p>&nbsp;<a href="https://www.youtube.com/watch?v=r5GDZ0qS8c4&list=PLtioRYPUn23oAHVCVmHUZywTxnL_8Xo9q&index=2"><img src="2_actor.jpg" width="640" height="362" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></a></p>
+
