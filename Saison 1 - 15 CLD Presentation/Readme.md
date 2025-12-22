@@ -12,7 +12,7 @@ Cette section introduit la certification **Certified LabVIEW Developer (CLD)** e
 ---
 
 <a href="https://www.youtube.com/watch?v=LF9DW1vDyN8&list=PLtioRYPUn23rmTQmI3XhCEMH0Tcn9y50z&index=15&ab_channel=TechnologiesdeFrance%28TDF%29">
-  <img src="CLD%20presentation.png" width="420" style="display:block;margin:auto;">
+  <img src="CLD%20presentation.png" width="640" style="display:block;margin:auto;">
 </a>
 
 ---
@@ -59,4 +59,5 @@ Ils couvrent les architectures, les patterns et les mécanismes fondamentaux att
 
 Lien officiel National Instruments :  
 https://education.ni.com/badges/resources/1255/certified-labview-developer-cld
+
 
