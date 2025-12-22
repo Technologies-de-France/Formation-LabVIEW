@@ -4,6 +4,7 @@
 <li><span>on continue l'exercice&nbsp;</span></li>
 <li><span>introduction &agrave; l'actor nested</span></li>
 </ul>
-<p>&nbsp;<a href="https://youtu.be/AIkKp_wjIKI"><img src="4_architecture.jpg" width="640" height="362" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></a></p>
+<p>&nbsp;<a href="https://www.youtube.com/watch?v=AIkKp_wjIKI&list=PLtioRYPUn23oAHVCVmHUZywTxnL_8Xo9q&index=4"><img src="4_architecture.jpg" width="640" height="362" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></a></p>
+
 
 
