@@ -16,7 +16,7 @@ Cette introduction permet de simplifier la vue d’ensemble du hardware LabVIEW,
 ## Vidéo du chapitre
 
 <p align="center">
-  <a href="https://youtu.be/q8Vr1xepA68">
+  <a href="https://www.youtube.com/watch?v=q8Vr1xepA68&list=PLtioRYPUn23r9BvnNcQNTqip6zoWJxo8q&index=2">
     <img src="./Présentation%20des%20catégories%20de%20matériels.png" width="600" />
   </a>
 </p>
