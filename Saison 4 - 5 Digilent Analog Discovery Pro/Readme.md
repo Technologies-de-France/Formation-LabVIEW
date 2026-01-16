@@ -28,7 +28,7 @@ https://cloud.digilent.com/myproducts/waveforms?pc=1&tab=2
 ## Vidéo du chapitre
 
 <p align="center">
-  <a href="https://youtu.be/wvFJYhuaL3g">
+  <a href="https://www.youtube.com/watch?v=wvFJYhuaL3g&list=PLtioRYPUn23r9BvnNcQNTqip6zoWJxo8q&index=6">
     <img src="./Digilent%20%20-%20Analog%20Discovery%20Pro.png" width="600" />
   </a>
 </p>
