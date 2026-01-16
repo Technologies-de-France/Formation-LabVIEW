@@ -161,7 +161,7 @@ bases de données et Web Services.
 </tr>
 
 <tr><td><strong>CompactRIO</strong></td></tr>
-<tr><td>Introduction CompactRIO (partie 1)</td></tr>
+<tr><td>Introduction CompactRIO</td></tr>
 <tr><td>CompactRIO — LabVIEW RT</td></tr>
 <tr><td>CompactRIO — LabVIEW FPGA</td></tr>
 
