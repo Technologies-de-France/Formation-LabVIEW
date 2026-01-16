@@ -21,8 +21,3 @@ Cette introduction permet de simplifier la vue d’ensemble du hardware LabVIEW,
   </a>
 </p>
 
-## Contenu du dépôt
-
-Ce dépôt contient **le code et les éléments présentés pendant la vidéo**, utilisés comme support pédagogique pour illustrer les différentes catégories de hardware compatibles avec LabVIEW.
-
-Il sert de point d’entrée pour l’ensemble de la **Saison 4**, dédiée au hardware et à l’intégration matérielle sous LabVIEW.
