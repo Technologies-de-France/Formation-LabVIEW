@@ -20,7 +20,7 @@ https://downloadt.advantech.com/download/downloadsr.aspx?File_Id=1-33TD6WS
 ## Vidéo du chapitre
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=q8Vr1xepA68&list=PLtioRYPUn23r9BvnNcQNTqip6zoWJxo8q&index=3">
+  <a href="https://www.youtube.com/watch?v=LsG_aVs_A4s&list=PLtioRYPUn23r9BvnNcQNTqip6zoWJxo8q&index=3">
     <img src="./Advantech%20%20-%20%20iDAQ.png" width="600" />
   </a>
 </p>
