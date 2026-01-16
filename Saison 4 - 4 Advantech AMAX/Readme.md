@@ -20,7 +20,7 @@ https://downloadt.advantech.com/download/downloadsr.aspx?File_Id=1-33TD6WS
 ## Vidéo du chapitre
 
 <p align="center">
-  <a href="https://youtu.be/nO91o3UZtCc">
+  <a href="https://www.youtube.com/watch?v=nO91o3UZtCc&list=PLtioRYPUn23r9BvnNcQNTqip6zoWJxo8q&index=5">
     <img src="./Advantech-AMAX.png" width="600" />
   </a>
 </p>
