@@ -132,60 +132,42 @@ bases de données et Web Services.
 <table border="0" style="width:50%; border-collapse:collapse;">
 <tbody>
 
+<tr><td><strong>Panorama général du hardware LabVIEW</strong></td></tr>
 <tr>
-<td><strong>Chapitre 1 — Panorama général du hardware LabVIEW</strong></td>
+  <td><a href="/Saison%204%20-%201%20Introduction%20LabVIEW%20Hardware/">Introduction LabVIEW Hardware</a></td>
 </tr>
-<tr><td>Introduction : catégories de matériels, usages typiques et critères de choix</td></tr>
-<tr><td>Panorama des marques : NI, Advantech, ADLINK, Digilent…</td></tr>
 
+<tr><td><strong>Acquisition modulaire & distribuée</strong></td></tr>
 <tr>
-<td><strong>Chapitre 2 — USB DAQ</strong></td>
+  <td><a href="/Saison%204%20-%202%20Advantech%20iDAQ/">Advantech iDAQ</a></td>
 </tr>
-<tr><td>USB-DAQ NI — acquisition simple et rapide</td></tr>
-<tr><td>USB-58 Advantech — alternative accessible aux DAQ USB</td></tr>
+<tr><td>NI CompactDAQ</td></tr>
+<tr><td>UEI CUBES & RACKS</td></tr>
 
+<tr><td><strong>USB DAQ</strong></td></tr>
 <tr>
-<td><strong>Chapitre 3 — CompactDAQ / iDAQ</strong></td>
+  <td><a href="/Saison%204%20-%203%20Advantech%20USB-5801/">Advantech USB-5801</a></td>
 </tr>
-<tr><td>CompactDAQ NI — acquisition modulaire industrielle</td></tr>
-<tr><td>iDAQ Advantech — mesure distribuée et évolutive</td></tr>
+<tr><td>Introduction DAQmx (MIO-DAQ)</td></tr>
 
+<tr><td><strong>Systèmes embarqués / Ethernet industriel</strong></td></tr>
 <tr>
-<td><strong>Chapitre 4 — PXI / PXIe</strong></td>
+  <td><a href="/Saison%204%20-%204%20Advantech%20AMAX/">Advantech AMAX</a></td>
 </tr>
-<tr><td>PXI NI — bancs de test haute performance et synchronisation</td></tr>
-<tr><td>PXI ADLINK — alternative robuste et compatible</td></tr>
 
+<tr><td><strong>Instrumentation compacte (académique / prototypage)</strong></td></tr>
 <tr>
-<td><strong>Chapitre 5 — PC industriels</strong></td>
+  <td><a href="/Saison%204%20-%205%20Digilent%20Analog%20Discovery%20Pro/">Digilent Analog Discovery Pro</a></td>
 </tr>
-<tr><td>PC industriels NI — supervision, vision et contrôle avancé</td></tr>
-<tr><td>PC industriels ADLINK (MXC) — IA embarquée et traitements GPU</td></tr>
-<tr><td>PC industriels Advantech (ARK) — edge computing et monitoring</td></tr>
 
-<tr>
-<td><strong>Chapitre 6 — Matériel académique</strong></td>
-</tr>
-<tr><td>myDAQ — apprentissage de la mesure et de l’acquisition</td></tr>
-<tr><td>myRIO — plateforme éducative RT + FPGA</td></tr>
-<tr><td>Analog Discovery Studio (Digilent) — mini laboratoire pédagogique</td></tr>
-<tr><td>Analog Discovery 3 (Digilent) — prototypage et validation électronique</td></tr>
+<tr><td><strong>CompactRIO</strong></td></tr>
+<tr><td>Introduction CompactRIO (partie 1)</td></tr>
+<tr><td>CompactRIO — LabVIEW RT</td></tr>
+<tr><td>CompactRIO — LabVIEW FPGA</td></tr>
 
-<tr>
-<td><strong>Chapitre 7 — Temps réel & FPGA (SoC)</strong></td>
-</tr>
-<tr><td>CompactRIO — contrôle embarqué durci et déterministe</td></tr>
-<tr><td>sbRIO — carte SoC OEM RT + FPGA</td></tr>
-<tr><td>Raspberry Pi — embarqué léger avec LINX Toolkit</td></tr>
+<tr><td><strong>PXI</strong></td></tr>
+<tr><td>Controller ADLINK</td></tr>
+<tr><td>Controller NI</td></tr>
 
-</tbody>
-</table>
-
-<!-- ============================================================ BONUS ============================================================ -->
-
-<p><strong>Chapitre bonus</strong></p>
-<table border="0" style="width:50%; border-collapse:collapse;">
-<tbody>
-<tr><td>RS232 — pilotage matériel, trames et protocoles</td></tr>
 </tbody>
 </table>
