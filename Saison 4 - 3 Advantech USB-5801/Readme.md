@@ -21,7 +21,7 @@ https://downloadt.advantech.com/download/downloadsr.aspx?File_Id=1-33TD6WS
 ## Vidéo du chapitre
 
 <p align="center">
-  <a href="https://youtu.be/Ot1Wke8VqQc">
+  <a href="https://www.youtube.com/watch?v=Ot1Wke8VqQc&list=PLtioRYPUn23r9BvnNcQNTqip6zoWJxo8q&index=4">
     <img src="./Advantech-USB-58.png" width="600" />
   </a>
 </p>
