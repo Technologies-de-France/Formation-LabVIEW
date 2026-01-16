@@ -2,24 +2,28 @@
 
 Dans ce chapitre de la **Saison 4 – Hardware & LabVIEW**, nous découvrons **iDAQ d’Advantech**, une solution d’acquisition **modulaire et distribuée**, conçue pour les environnements industriels nécessitant robustesse, évolutivité et déploiement terrain sous LabVIEW.
 
-Ce module s’adresse aux intégrateurs et développeurs souhaitant mettre en œuvre des architectures d’acquisition décentralisées, simples à déployer et adaptées aux contraintes industrielles.
+Ce module s’adresse aux intégrateurs et développeurs souhaitant mettre en œuvre des architectures d’acquisition décentralisées, adaptées aux contraintes industrielles et faciles à déployer sur le terrain.
 
 ## Ce que vous allez apprendre
 
 - Présentation de l’architecture iDAQ et de ses modules  
 - Cas d’usage typiques en acquisition industrielle distribuée  
-- Intégration et configuration sous LabVIEW  
+- Intégration et configuration d’iDAQ sous LabVIEW  
 
 ## Ressources LabVIEW & installation
 
 Pour utiliser iDAQ sous LabVIEW, l’installation du framework **DAQNavi** est requise.
 
-👉 Lien de téléchargement DAQNavi  
+Lien de téléchargement DAQNavi :  
 https://downloadt.advantech.com/download/downloadsr.aspx?File_Id=1-33TD6WS
 
 ## Vidéo du chapitre
 
-[![Advantech iDAQ](./Advantech%20-%20iDAQ.png)](https://youtu.be/LsG_aVs_A4s)
+<p align="center">
+  <a href="https://youtu.be/LsG_aVs_A4s">
+    <img src="./Advantech%20%20-%20%20iDAQ.png" width="600" />
+  </a>
+</p>
 
 ## Contenu du dépôt
 
