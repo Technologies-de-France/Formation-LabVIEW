@@ -145,8 +145,6 @@ bases de données et Web Services.
 <tr>
   <td><a href="/Saison%204%20-%202%20Advantech%20iDAQ/">Advantech iDAQ</a></td>
 </tr>
-<tr><td>NI CompactDAQ</td></tr>
-<tr><td>UEI CUBES & RACKS</td></tr>
 
 <!-- ======================== USB DAQ ======================== -->
 
