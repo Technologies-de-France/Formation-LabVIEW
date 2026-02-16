@@ -132,10 +132,14 @@ bases de données et Web Services.
 <table border="0" style="width:50%; border-collapse:collapse;">
 <tbody>
 
+<!-- ======================== PANORAMA ======================== -->
+
 <tr><td><strong>Panorama général du hardware LabVIEW</strong></td></tr>
 <tr>
   <td><a href="/Saison%204%20-%201%20Introduction%20LabVIEW%20Hardware/">Introduction LabVIEW Hardware</a></td>
 </tr>
+
+<!-- ======================== ARCHITECTURES MODULAIRES ======================== -->
 
 <tr><td><strong>Acquisition modulaire & distribuée</strong></td></tr>
 <tr>
@@ -144,28 +148,45 @@ bases de données et Web Services.
 <tr><td>NI CompactDAQ</td></tr>
 <tr><td>UEI CUBES & RACKS</td></tr>
 
+<!-- ======================== USB DAQ ======================== -->
+
 <tr><td><strong>USB DAQ</strong></td></tr>
 <tr>
   <td><a href="/Saison%204%20-%203%20Advantech%20USB-5801/">Advantech USB-5801</a></td>
 </tr>
-<tr><td>Introduction DAQmx (MIO-DAQ)</td></tr>
+
+<!-- ======================== DAQmx ======================== -->
+
+<tr><td><strong>NI-DAQmx — Architecture logicielle d’acquisition</strong></td></tr>
+<tr><td>Présentation générale de DAQmx</td></tr>
+<tr><td>Introduction aux tâches DAQmx</td></tr>
+<tr><td>DAQmx — Clock & Timing</td></tr>
+<tr><td>DAQmx — Trigger & Synchronisation</td></tr>
+
+<!-- ======================== EMBARQUÉ ======================== -->
 
 <tr><td><strong>Systèmes embarqués / Ethernet industriel</strong></td></tr>
 <tr>
   <td><a href="/Saison%204%20-%204%20Advantech%20AMAX/">Advantech AMAX</a></td>
 </tr>
 
+<!-- ======================== INSTRUMENTATION COMPACTE ======================== -->
+
 <tr><td><strong>Instrumentation compacte (académique / prototypage)</strong></td></tr>
 <tr>
   <td><a href="/Saison%204%20-%205%20Digilent%20Analog%20Discovery%20Pro/">Digilent Analog Discovery Pro</a></td>
 </tr>
+
+<!-- ======================== COMPACTRIO ======================== -->
 
 <tr><td><strong>CompactRIO</strong></td></tr>
 <tr><td>Introduction CompactRIO</td></tr>
 <tr><td>CompactRIO — LabVIEW RT</td></tr>
 <tr><td>CompactRIO — LabVIEW FPGA</td></tr>
 
-<tr><td><strong>PXI</strong></td></tr>
+<!-- ======================== PXI ======================== -->
+
+<tr><td><strong>PXI & Contrôleurs industriels</strong></td></tr>
 <tr><td>Controller ADLINK</td></tr>
 <tr><td>Controller NI</td></tr>
 
