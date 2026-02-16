@@ -6,8 +6,6 @@ Avant d’aborder les notions techniques telles que les tâches, le timing ou le
 
 Cette mise en perspective permet de mieux appréhender la séparation progressive entre matériel et logiciel, ainsi que l’évolution de l’écosystème National Instruments depuis sa création.
 
----
-
 ## Ce que vous allez découvrir
 
 - La création de National Instruments en 1976  
@@ -17,13 +15,13 @@ Cette mise en perspective permet de mieux appréhender la séparation progressiv
 - L’évolution vers une abstraction claire entre langage et matériel  
 - Le rôle actuel de LabVIEW et de DAQmx dans les architectures industrielles  
 
----
-
 ## Vidéo du chapitre
 
-[![DAQmx — Histoire & Architecture](NI%20-%20DAQmx%20-%20Origines.png)](https://youtu.be/3TiIbqXGewY?si=RRkJFiyXu5fVfkM2)
-
----
+<p align="center">
+  <a href="https://youtu.be/3TiIbqXGewY?si=RRkJFiyXu5fVfkM2">
+    <img src="NI - DAQmx - Origines.png" width="600">
+  </a>
+</p>
 
 ## Positionnement dans la formation
 
@@ -36,5 +34,3 @@ Les vidéos suivantes entreront dans les aspects opérationnels :
 - Timing et synchronisation  
 - Gestion des triggers  
 - Contraintes matérielles et bonnes pratiques  
-
-
