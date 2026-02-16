@@ -158,8 +158,13 @@ bases de données et Web Services.
 <!-- ======================== DAQmx ======================== -->
 
 <tr><td><strong>NI-DAQmx — Architecture logicielle d’acquisition</strong></td></tr>
-<tr><td>Présentation générale de DAQmx</td></tr>
-<tr><td>Introduction aux tâches DAQmx</td></tr>
+<tr>
+  <td><a href="/Saison%204%20-%206%20DAQmx%20Presentation/">DAQmx — Histoire & Architecture</a></td>
+</tr>
+
+<tr>
+  <td><a href="/Saison%204%20-%207%20DAQmx%20Introduction/">DAQmx — Introduction aux tâches</a></td>
+</tr>
 <tr><td>DAQmx — Clock & Timing</td></tr>
 <tr><td>DAQmx — Trigger & Synchronisation</td></tr>
 
