@@ -21,11 +21,6 @@
 </table>
 
 <p>
-Cette formation gratuite vous guide pas à pas depuis les bases de LabVIEW
-jusqu’aux architectures professionnelles utilisées en industrie :
-Machine d’état, QMH, FGV, programmation orientée objet, Actor Framework,
-bases de données et Web Services.
-
 Marre du code LabVIEW illisible ?
 Les spaghettis, c’est fait pour être mangés, pas pour être câblés.
 
